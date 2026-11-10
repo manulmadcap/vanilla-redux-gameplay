@@ -29,9 +29,9 @@
 +Radiant Quest Point System - Missives Patch
 +Radiant Quest Point System - ( Rethinking Perk Point )
 +[custom] - Missives - Boards Redone - Environs - Abandoned Abodes Patch
++[skse] - Missives - Boards Redone - Immersive Interactions FLM Patch
 +Missives - Boards Redone - Solstheim Addon
 +Missives - Boards Redone
-+Missives - Notes Retexture Darkened
 +Missives - Notes Retexture - Beyond Skyrim Bruma
 +Missives - Notes Retexture - Solstheim
 +Missives - Notes Retexture
@@ -205,6 +205,7 @@
 +[skse] - Sweeping Organizes Stuff - Use Broom to Clean Mess
 +[skse] - Take a Nap - Sleep on Chairs
 +[skse] - Grab And Throw
++[skse] - Wayfarer - A Convenient Camping Framework
 +[skse] - Usable Campfires - Diverse Campfires Patch
 +[skse] - Usable Campfires
 +[custom] - Improved Mannequins (DAK) - Custom Settings Patch
@@ -287,6 +288,8 @@
 +[skse] - Skyrim Configuration Menu
 +Alternate Start - Live Another Life - SSE
 -Gameplay - New Features_separator
++Angi Uses Unique Practice Arrows
++Angi's Camp Archery Targets
 +mammoths have more than one tusk - Simple Hunting Overhaul Patch
 +mammoths have more than one tusk
 +sabre cats have more than one tooth (and eye)

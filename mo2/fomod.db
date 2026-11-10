@@ -1952,7 +1952,7 @@
         "group": "Collision",
         "masters": [],
         "name": "Accurate collision (harder)",
-        "selectionState": "Selected",
+        "selectionState": "Available",
         "step": "Step1"
       },
       {
@@ -1960,7 +1960,7 @@
         "group": "Collision",
         "masters": [],
         "name": "Vanilla collision (easier)",
-        "selectionState": "Available",
+        "selectionState": "Selected",
         "step": "Step1"
       }
     ]

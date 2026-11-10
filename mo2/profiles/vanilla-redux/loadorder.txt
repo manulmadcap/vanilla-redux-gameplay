@@ -644,6 +644,9 @@ Missives - Boards Redone.esp - Environs - Abandoned Abodes.esp Patch.esp
 JKs New Gnisis Cornerclub - USSEP Supplemental Patch.esp
 JKs Skyrim.esp - USSEP Supplemental Patch.esp
 CreepClusterCollisionFixes_HFPlanting.esp
+Wayfarer - A Convenient Camping Framework.esp
+Angi's Camp Archery Targets.esp
+Angi's Unique Practice Arrows.esp
 Aetherius.esp
 AetheriusNPCSpellAbsorb.esp
 ApprenticeAetherius.esp
