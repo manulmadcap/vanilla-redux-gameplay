@@ -6,7 +6,7 @@
 +Enhanced Worldspace Maps
 +Beyond Skyrim - Bruma - Best of Both Lod Patch
 +[custom] - DynDOLOD 3 - Modgroups
-+[custom] - DynDOLOD 3 - Generated Object LOD - 9
++[custom] - DynDOLOD 3 - Generated Object LOD
 +[custom] - TexGen - Generated LOD Textures
 +[custom] - ACMOS Road Generator - Generated Roads
 +[custom] - xLODGen - Generated Terrain LODs
@@ -160,7 +160,7 @@
 +[custom] - Unique Uniques SE - Immersive Weapons Patch
 +[custom] - Unique Uniques SE - USSEP Patch
 +Unique Uniques SE
-+Zim's Immersive Artifacts - Survival Mode Improved Patch
++[custom] - Zim's Immersive Artifacts - Survival Mode Improved Patch
 +Zim's Immersive Artifacts
 +[custom] - Artifact of Might - USSEP Patch
 +Artifact of Might
@@ -224,8 +224,8 @@
 +[skse] - Carry Your Carcasses
 +[skse] - Simple Hunting Overhaul - Beyond Skyrim Bruma Patch
 +[skse] - Simple Hunting Overhaul
-+Arachnomancy - A Spider Scrolls Overhaul - Respawn Fix Patch
-+Arachnomancy - A Spider Scrolls Overhaul - USSEP Patch
++[custom] - Arachnomancy - A Spider Scrolls Overhaul - Respawn Fix Patch
++[custom] - Arachnomancy - A Spider Scrolls Overhaul - USSEP Patch
 +Arachnomancy - A Spider Scrolls Overhaul
 +[custom] - Passive Weapon Enchantment Recharging - Settings
 +[skse] - Passive Weapon Enchantment Recharging - Settings Loader
@@ -292,7 +292,7 @@
 +[custom] - Angi Uses Unique Practice Arrows - Immersive Weapons Patch
 +Angi Uses Unique Practice Arrows
 +Angi's Camp Archery Targets
-+mammoths have more than one tusk - Simple Hunting Overhaul Patch
++[custom] - mammoths have more than one tusk - Simple Hunting Overhaul Patch
 +mammoths have more than one tusk
 +sabre cats have more than one tooth (and eye)
 +[skse] - Simple Fishing Overhaul - FLM Addon
@@ -320,7 +320,7 @@
 +Vendor Gold Level Scaling - Merchants Gain More Gold
 +Bounties Are Worthwhile - Leveled Bounty Rewards
 +[skse] - Actually Useful Butter Churns - Base Object Swapper
-+FishermenFish - SMIM Patch
++[custom] - FishermenFish - SMIM Patch
 +[skse] - Fishermen Fish - JK's Skyrim Patch
 +[skse] - Fishermen Fish
 +Sleep Under The Stars - Survival Mode Tweak
@@ -497,7 +497,7 @@
 +Rudy HQ - Miscellaneous SE - 2K
 -Textures and Meshes - Items, Weapons, Armor_separator
 +Simplicity of Sea - Water Mod with ENB and Community Shaders Displacement Textures
-+Landscape Fixes For Grass Mods - Verdant Tweaks - Depths of Skyrim Patch
++[custom] - Landscape Fixes For Grass Mods - Verdant Tweaks - Depths of Skyrim Patch
 +Landscape Fixes For Grass Mods - Verdant Tweaks
 +Landscape Fixes For Grass Mods - JK's Skyrim Patch
 +Landscape Fixes For Grass Mods - Alternate Start Patch
@@ -511,7 +511,7 @@
 +[custom] - No grass in caves - USSEP Patch
 +No grass in caves
 -Complex Grass - The official Patch Compendium - Verdant
-+Verdant - Missing Grass Texture Patch
++[custom] - Verdant - Missing Grass Texture Patch
 +Verdant - A Skyrim Grass Plugin
 +Gildergreen Regrown
 +High Poly Blackreach Mushrooms
