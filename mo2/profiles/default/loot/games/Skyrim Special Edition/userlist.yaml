@@ -1,0 +1,626 @@
+plugins:
+  - name: 'Circlets and Masks with all Robes and Hoods.esp - Update.esm Patch.esp'
+    after:
+      - 'Circlets and Masks with all Robes and Hoods.esp'
+      - 'Update.esm'
+
+  - name: 'Circlets and Masks with all Robes and Hoods.esp - USSEP Patch.esp'
+    after:
+      - 'Circlets and Masks with all Robes and Hoods.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'Circlets and Masks with all Robes and Hoods.esp - BeardMaskFix.esp Patch.esp'
+    after:
+      - 'Circlets and Masks with all Robes and Hoods.esp'
+      - 'BeardMaskFix.esp'
+
+  - name: 'BeardMaskFix.esp - Circlets and Masks with all Robes and Hoods.esp Patch.esp'
+    after:
+      - 'BeardMaskFix.esp'
+      - 'Circlets and Masks with all Robes and Hoods.esp'
+
+  - name: 'Skyrim Project Optimization - Full ESL Version.esm - USSEP Patch.esp'
+    after:
+      - 'Skyrim Project Optimization - Full ESL Version.esm'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'EVE - KillMove Fixes.esp - USSEP Patch.esp'
+    after:
+      - 'EVE - KillMove Fixes.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'DisintegrationFix.esp - USSEP Patch.esp'
+    after:
+      - 'DisintegrationFix.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'Gildergreen Fix.esp - USSEP Patch.esp'
+    after:
+      - 'Gildergreen Fix.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'Valthume Throne Fix - USSEP Patch.esp'
+    after:
+      - 'ValthumeThroneFix.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'FishermenFish.esp - SMIM-SE-Merged-All.esp Patch.esp'
+    after:
+      - 'FishermenFish.esp'
+      - 'SMIM-SE-Merged-All.esp'
+
+  - name: 'MysticismMagic.esp - USSEP Patch.esp'
+    after:
+      - 'MysticismMagic.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'BladeAndBlunt.esp - USSEP Patch.esp'
+    after:
+      - 'BladeAndBlunt.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'LostGrimoire_Mysticism_Patch.esp - Mysticism Patch.esp'
+    after:
+      - 'LostGrimoire.esp'
+      - 'LostGrimoire_Mysticism_Patch.esp'
+      - 'MysticismMagic.esp'
+
+  - name: 'LostGrimoire-SurvivalMode-Patch - Survival Mode Patch.esp'
+    after:
+      - 'LostGrimoire.esp'
+      - 'LostGrimoire-SurvivalMode-Patch.esp'
+      - 'ccQDRSSE001-SurvivalMode.esl'
+
+  - name: 'Parry.esp - Disable Disarming Patch.esp'
+    after: [ 'Parry.esp' ]
+
+  - name: 'Traps.esp - Improved Traps - Dangerous Patch.esp'
+    after:
+      - 'Traps.esp'
+      - 'Improved Traps - Dangerous.esp'
+
+  - name: 'Traps.esp - USSEP Patch.esp'
+    after:
+      - 'Traps.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'Followers.esp - USSEP Patch.esp'
+    after:
+      - 'Followers.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'Skills.esp - Silent Powers Patch.esp'
+    after:
+      - 'Skills.esp'
+      - 'Skills - Survival Patch.esp'
+
+  - name: 'Skills.esp - Powers Patch.esp'
+    after:
+      - 'Skills.esp'
+      - 'Skills - Survival Patch.esp'
+
+  - name: 'BladeAndBlunt.esp - Faster Stamina Regeneration Patch.esp'
+    after:
+      - 'BladeAndBlunt.esp'
+      - 'BladeAndBlunt.esp - USSEP Patch.esp'
+
+  - name: 'WhirlwindSprintVoiceWorkaround.esp - Stormcrown.esp Patch.esp'
+    after:
+      - 'WhirlwindSprintVoiceWorkaround.esp'
+      - 'Stormcrown.esp'
+
+  - name: 'ars metallica.esp - Adamant.esp Patch.esp'
+    after:
+      - 'ars metallica.esp'
+      - 'Adamant.esp'
+
+  - name: 'Parry.esp - Adamant.esp Patch.esp'
+    after:
+      - 'Parry.esp'
+      - 'Adamant.esp'
+
+  - name: 'EVE - KillMove Fixes - USSEP - Adamant Crossbows Patch.esp'
+    after:
+      - 'EVE - KillMove Fixes.esp - USSEP Patch.esp'
+      - 'AdamantCrossbows.esp'
+
+  - name: 'EVE - KillMove Fixes.esp - USSEP Patch - AdamantCrossbows.esp Patch.esp'
+    after:
+      - 'EVE - KillMove Fixes.esp'
+      - 'EVE - KillMove Fixes.esp - USSEP Patch.esp'
+      - 'AdamantCrossbows.esp'
+
+  - name: 'DisintegrationFix.esp - Adamant Patch.esp'
+    after:
+      - 'DisintegrationFix.esp'
+      - 'DisintegrationFix.esp - USSEP Patch.esp'
+      - 'Adamant.esp'
+
+  - name: 'LostGrimoire_Adamant_Patch.esp - Custom Patch-1.0.0.esp'
+    after:
+      - 'LostGrimoire.esp'
+      - 'LostGrimoire_Adamant_Patch.esp'
+      - 'Adamant.esp'
+      - 'MysticismMagic.esp'
+
+  - name: 'LostGrimoire_Adamant_Patch.esp - Custom Patch.esp'
+    after:
+      - 'LostGrimoire.esp'
+      - 'LostGrimoire_Adamant_Patch.esp'
+      - 'Adamant.esp'
+
+  - name: 'Environs - Abandoned Abodes.esp - USSEP Patch.esp'
+    after:
+      - 'Environs - Abandoned Abodes.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'Smart_NPC_Potions.esp - Custom Settings Patch.esp'
+    after: [ 'Smart_NPC_Potions.esp' ]
+
+  - name: 'Parry.esp - Custom Settings Patch.esp'
+    after: [ 'Parry.esp' ]
+
+  - name: 'AlchemyAdjustments - USSEP Patch.esp'
+    after:
+      - 'AlchemyAdjustments.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'AlchemyAdjustments - RareCurios - USSEP Patch.esp'
+    after:
+      - 'AlchemyAdjustments.esp'
+      - 'AlchemyAdjustments - RareCurios Patch.esp'
+      - 'unofficial skyrim special edition patch.esp'
+      - 'AlchemyAdjustments - USSEP Patch.esp'
+
+  - name: 'AlchemyAdjustments.esp - Balmora Blue Patch.esp'
+    after:
+      - 'AlchemyAdjustments.esp'
+      - 'Update.esm'
+
+  - name: 'Spiderbros - Throwing Spider Overhaul - Leveled List Patch.esp'
+    after: [ 'Spiderbros - Throwing Spider Overhaul.esp' ]
+
+  - name: 'Arachnomancy.esp - USSEP Patch.esp'
+    after:
+      - 'unofficial skyrim special edition patch.esp'
+      - 'Arachnomancy.esp'
+
+  - name: 'Arachnomancy.esp - Wispmother And Albino Spider Respawn Fix Patch.esp'
+    after:
+      - 'Arachnomancy.esp'
+      - 'Wispmother And Albino Spider Respawn Fix SE.esp'
+
+  - name: 'Adamant BSHeartland Patch.esp'
+    after:
+      - 'Adamant.esp'
+      - 'BSHeartland.esm'
+
+  - name: 'Portal Strict Lights Patcher.esp'
+    after: [ '' ]
+
+  - name: 'EasyMannequinUsage - Custom Settings Patch.esp'
+    after: [ 'EasyMannequinUsage.esp' ]
+
+  - name: 'CYC - SHO - Dialogue Prices Patch.esp'
+    after:
+      - 'CYC - SHO - Immersive Prices.esp'
+      - 'CarryYourCarcasses - SHO.esp'
+      - 'Simple Hunting Overhaul.esp'
+
+  - name: 'CYC - SHO - Immersive Prices.esp - Adjusted Carry Weight Patch.esp'
+    after:
+      - 'CYC - SHO - Immersive Prices.esp'
+      - 'CarryYourCarcasses - SHO.esp'
+      - 'Simple Hunting Overhaul.esp'
+
+  - name: 'CYC - SHO - Immersive Prices - Adjusted Values Patch.esp'
+    after:
+      - 'CarryYourCarcasses - SHO.esp'
+      - 'Simple Hunting Overhaul.esp'
+      - 'CYC - SHO - Immersive Prices.esp'
+
+  - name: 'Adamant Followers Patch - Custom Patch.esp'
+    after:
+      - 'Followers.esp'
+      - 'Followers.esp - USSEP Patch.esp'
+      - 'Adamant.esp'
+
+  - name: 'Followers.esp - Adamant Patch - Custom Patch.esp'
+    after:
+      - 'Followers.esp'
+      - 'Followers.esp - USSEP Patch.esp'
+      - 'Adamant.esp'
+
+  - name: 'Cloaks.esp - USSEP Patch.esp'
+    after:
+      - 'Cloaks.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'Summermyst - USSEP Compatibility Patch.esp'
+    after:
+      - 'Summermyst - Enchantments of Skyrim.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'Immersive Armors - USSEP Patch.esp'
+    after:
+      - 'Hothtrooper44_ArmorCompilation.esp'
+      - 'Hothtrooper44_Armor_Ecksstra.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'Hothtrooper44_ArmorCompilation.esp - USSEP Patch.esp'
+    after:
+      - 'Hothtrooper44_ArmorCompilation.esp'
+      - 'Hothtrooper44_Armor_Ecksstra.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'Immersive Weapons.esp - USSEP Patch.esp'
+    after:
+      - 'Immersive Weapons.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'Immersive Weapons.esp - Blade and Blunt Patch.esp'
+    after:
+      - 'Immersive Weapons.esp'
+      - 'BladeAndBlunt.esp'
+
+  - name: 'Immersive Weapons.esp - Mysticism Patch.esp'
+    after:
+      - 'Immersive Weapons.esp'
+      - 'MysticismMagic.esp'
+
+  - name: 'Immersive Weapons.esp - Leveled List Adjustments Patch.esp'
+    after: [ 'Immersive Weapons.esp' ]
+
+  - name: 'PrvtI_HeavyArmory.esp'
+    after: [ 'Immersive Weapons.esp' ]
+
+  - name: 'Blade and Blunt - Jumping Attack Patch.esp'
+    after:
+      - 'JumpAttack.esp'
+      - 'BladeAndBlunt.esp'
+
+  - name: 'Keyword fix for Immersive Weapons.esp - Custom Patch.esp'
+    after:
+      - 'Immersive Weapons.esp'
+      - 'Keyword fix for Immersive Weapons.esp'
+
+  - name: 'Heavy Armory Enchanted - Summermyst Patch.esp'
+    after:
+      - 'Heavy Armory Enchanted.esp'
+      - 'Summermyst - Enchantments of Skyrim.esp'
+      - 'Summermyst - USSEP Compatibility Patch.esp'
+
+  - name: 'Artifact of Might.esp - USSEP Patch.esp'
+    after:
+      - 'Artifact of Might.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'Unique Uniques.esp - USSEP Patch.esp'
+    after:
+      - 'Unique Uniques.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'Unique Uniques.esp - Immersive Weapons Patch.esp'
+    after:
+      - 'Unique Uniques.esp'
+      - 'Immersive Weapons.esp'
+
+  - name: 'ArteFake.esp'
+    after:
+      - 'Unique Uniques.esp'
+      - 'Unique Uniques.esp - USSEP Patch.esp'
+      - 'Unique Uniques.esp - Immersive Weapons Patch.esp'
+
+  - name: 'ArteFake.esp - Summermyst Patch.esp'
+    after:
+      - 'ArteFake.esp'
+      - 'Summermyst - Enchantments of Skyrim.esp'
+
+  - name: 'ArteFake.esp - USSEP Patch.esp'
+    after:
+      - 'ArteFake.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'ArteFake.esp - Immersive Weapons Patch.esp'
+    after:
+      - 'ArteFake.esp'
+      - 'Immersive Weapons.esp'
+
+  - name: 'ZIA_Complete Pack.esp - Survival Mode Improved Patch.esp'
+    after:
+      - 'ZIA_Complete Pack.esp'
+      - 'SurvivalModeImproved.esp'
+
+  - name: 'BetterQuestObjectives.esp - All In One Patch.esp'
+    after: [ 'BetterQuestObjectives-AlternateStartPatch.esp' ]
+
+  - name: 'Simplicity of Snow - Blended Roads Patch - Custom Patch.esp'
+    after:
+      - 'Simplicity of Snow.esp'
+      - 'Simplicity of Snow - Blended Roads Patch.esp'
+
+  - name: 'Embers XD.esp - USSEP Patch.esp'
+    after:
+      - 'Embers XD - Patch - Survival Mode.esp'
+      - 'Embers XD - Patch - Survival Mode Improved.esp'
+      - 'unofficial skyrim special edition patch.esp'
+      - 'Embers XD.esp'
+      - 'Embers XD.esm'
+
+  - name: 'Embers XD - Fire Magick Add-On.esp - Mysticism Patch.esp'
+    after:
+      - 'Embers XD - Fire Magick Add-On.esp'
+      - 'MysticismMagic.esp'
+
+  - name: 'mammoths have more than one tusk.esp - SHO Patch.esp'
+    after:
+      - 'mammoths have more than one tusk.esp'
+      - 'Simple Hunting Overhaul.esp'
+
+  - name: 'JK''s Bee and Barb.esp - Alternate Start Patch.esp'
+    after:
+      - 'JK''s Bee and Barb.esp'
+      - 'alternate start - live another life.esp'
+
+  - name: 'JKs Skyrim.esp - UNVFH - Falkreath - clipping patch Patch.esp'
+    after:
+      - 'JKs Skyrim.esp'
+      - 'UNVFH - Falkreath - clipping patch.esp'
+
+  - name: 'NoGrassINCaves.esp - USSEP Patch.esp'
+    after:
+      - 'NoGrassINCaves.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'DepthsOfSkyrim.esp - Cloaks.esp Patch.esp'
+    after:
+      - 'DepthsOfSkyrim.esp'
+      - 'Cloaks.esp'
+
+  - name: 'DepthsOfSkyrim.esp - Skyrim Project Optimization - Full ESL Version.esm - USSEP Patch - Patch.esp'
+    after:
+      - 'DepthsOfSkyrim.esp'
+      - 'Skyrim Project Optimization - Full ESL Version.esm'
+
+  - name: 'HappyLittleTrees.esp - Verdant Patch.esp'
+    after:
+      - 'HappyLittleTrees.esp'
+      - 'Verdant - A Skyrim Grass Plugin SSE Version.esp'
+
+  - name: 'IA Script Free - Shield Rack Fix.esp'
+    after:
+      - 'Immersive Armors - Asdasfa Tweaks and Fixes.esp'
+      - 'Hothtrooper44_ArmorCompilation.esp'
+      - 'Hothtrooper44_Armor_Ecksstra.esp'
+      - 'Hothtrooper44_ArmorCompilation.esp - USSEP Patch.esp'
+
+  - name: 'DepthsOfSkyrim.esp - Tweaks For Verdant.esp Patch.esp'
+    after:
+      - 'DepthsOfSkyrim.esp'
+      - 'Tweaks For Verdant.esp'
+
+  - name: 'JK''s Thieves Guild.esp - Environs - Abandoned Abodes.esp Patch.esp'
+    after:
+      - 'JK''s Thieves Guild.esp'
+      - 'Environs - Abandoned Abodes.esp'
+
+  - name: 'JKs Winking Skeever - Alternate Start Mods Patch.esp'
+    after:
+      - 'alternate start - live another life.esp'
+      - 'JK''s The Winking Skeever.esp'
+
+  - name: 'JKs The Winking Skeever - Alternate Start Patch.esp'
+    after:
+      - 'JK''s The Winking Skeever.esp'
+      - 'alternate start - live another life.esp'
+
+  - name: 'JKs Bannered Mare - Alternate Start Patch.esp'
+    after:
+      - 'JK''s The Bannered Mare.esp'
+      - 'alternate start - live another life.esp'
+
+  - name: 'JKs Candlehearth Hall - Alternate Start Patch.esp'
+    after:
+      - 'JK''s Candlehearth Hall.esp'
+      - 'alternate start - live another life.esp'
+
+  - name: 'JKs Sleeping Giant Inn - Alternate Start Patch.esp'
+    after:
+      - 'JK''s Sleeping Giant Inn.esp'
+      - 'alternate start - live another life.esp'
+
+  - name: 'JKs Nightgate Inn - Removed Statics.esp'
+    after: [ 'JK''s Nightgate Inn.esp' ]
+
+  - name: 'JKs The Bannered Mare - Removed Statics.esp'
+    after: [ 'JK''s The Bannered Mare.esp' ]
+
+  - name: 'ArteFake - No Loading Screens.esp'
+    after: [ 'ArteFake.esp' ]
+
+  - name: 'aMidianborn_Skyforge_Weapons.esp - USSEP Patch.esp'
+    after:
+      - 'aMidianborn_Skyforge_Weapons.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'Sleeved Guards.esp - Cloaks of Skyrim Patch.esp'
+    after:
+      - 'Sleeved Guards.esp'
+      - 'Cloaks.esp'
+
+  - name: 'Sleeved Guards.esp - Survival Mode Patch.esp'
+    after: [ 'Sleeved Guards.esp' ]
+
+  - name: 'Sleeved Guards.esp - USSEP Patch.esp'
+    after:
+      - 'Sleeved Guards.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'FranklyHDImperialArmorsAndWeapons.esp - USSEP Patch.esp'
+    after:
+      - 'FranklyHDImperialArmorsAndWeapons.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'ICH - Enchantable Special Item Fix Patch.esp'
+    after:
+      - 'imp_helm_legend.esp'
+      - 'EnchantableSpecialItemFix_USSEP.esp'
+
+  - name: 'ICH - Zims Immersive Artifacts Patch.esp'
+    after:
+      - 'imp_helm_legend.esp'
+      - 'ZIA_Complete Pack.esp'
+
+  - name: 'ICH - Circlets and Masks Patch.esp'
+    after:
+      - 'imp_helm_legend.esp'
+      - 'Circlets and Masks with all Robes and Hoods.esp - Update.esm Patch.esp'
+      - 'Circlets and Masks with all Robes and Hoods.esp'
+
+  - name: 'ICH - Circlets Update Patch.esp'
+    after:
+      - 'Circlets and Masks with all Robes and Hoods.esp - Update.esm Patch.esp'
+      - 'imp_helm_legend.esp'
+      - 'Circlets and Masks with all Robes and Hoods.esp'
+
+  - name: 'JS Unique Utopia SE - Rings - Johnskyrim.esp - Manbeast.esp Patch.esp'
+    after:
+      - 'JS Unique Utopia SE - Rings - Johnskyrim.esp'
+      - 'Manbeast.esp'
+
+  - name: 'JS Unique Utopia SE - Daggers - ArteFakes - ZIA Patch.esp'
+    after:
+      - 'JS Unique Utopia SE - Daggers - Johnskyrim.esp'
+      - 'JS Unique Utopia SE - Daggers - ArteFakes Patch.esp'
+      - 'JS Unique Utopia SE - Daggers - ZIM Complete Patch.esp'
+      - 'ArteFake.esp'
+      - 'ZIA_Complete Pack.esp'
+
+  - name: 'Skyrim Revoiced - USSEP Supplemental Patch.esp'
+    after:
+      - 'Revoiced USSEP.esp'
+      - 'SkyrimRevoiced Skypatcher.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'Skyrim Revoiced - Here We Go Again Patch.esp'
+    after:
+      - 'SkyrimRevoiced Skypatcher.esp'
+      - 'HereWeGoAgain.esp'
+
+  - name: 'Skyrim Revoiced - Hunters Not Bandits Supplemental Patch.esp'
+    after:
+      - 'SkyrimRevoiced Skypatcher.esp'
+      - 'Hunters Not Bandits.esp'
+      - 'RevoicedSkyP HuntersNotBandits.esp'
+
+  - name: 'Skyrim Revoiced - Quest Fixes Patch.esp'
+    after:
+      - 'SkyrimRevoiced Skypatcher.esp'
+      - 'Quest Fixes.esp'
+
+  - name: 'FSLE - More Locations.esp - USSEP Patch.esp'
+    after:
+      - 'FSLE - More Locations.esp'
+      - 'FSLE - Unique Abilities.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'AdditionalMusicProject.esp - BSAssets.esm Patch.esp'
+    after:
+      - 'AdditionalMusicProject.esp'
+      - 'BSAssets.esm'
+      - 'BSHeartland.esm'
+
+  - name: 'AdditionalMusicProject.esp - Dawnguard.esm Patch.esp'
+    after:
+      - 'AdditionalMusicProject.esp'
+      - 'Dawnguard.esm'
+
+  - name: 'AdditionalMusicProject.esp - TheNordicScore - Dungeons.esp Patch.esp'
+    after:
+      - 'AdditionalMusicProject.esp'
+      - 'TheNordicScore - Dungeons.esp'
+
+  - name: 'adamant-alchemy-75-percent-xp-rate.esp'
+    after: [ 'Adamant.esp' ]
+
+  - name: 'Harvest Overhaul Redone - Ars Metallica Patch.esp'
+    after:
+      - 'HarvestOverhaul_Redone.esp'
+      - 'ars metallica.esp'
+
+  - name: 'Harvest Overhaul Redone - Simple Hunting Overhaul Patch.esp'
+    after:
+      - 'HarvestOverhaul_Redone.esp'
+      - 'Simple Hunting Overhaul.esp'
+
+  - name: 'Green Thumb Fix - Adamant Patch.esp'
+    after:
+      - 'GreenThumbFix.esp'
+      - 'Adamant.esp'
+
+  - name: 'Harvest Overhaul Redone - Adamant Patch.esp'
+    after:
+      - 'HarvestOverhaul_Redone.esp'
+      - 'Adamant.esp'
+
+  - name: 'Harvest Overhaul Redone - USSEP Patch.esp'
+    after:
+      - 'HarvestOverhaul_Redone.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'Missives - Boards Redone.esp - Environs - Abandoned Abodes.esp Patch.esp'
+    after:
+      - 'Missives.esp'
+      - 'Missives - Boards Redone.esp'
+      - 'Environs - Abandoned Abodes.esp'
+
+  - name: 'JKs New Gnisis Cornerclub - USSEP Supplemental Patch.esp'
+    after:
+      - 'JK''s New Gnisis Cornerclub.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'JKs Skyrim.esp - USSEP Supplemental Patch.esp'
+    after:
+      - 'JKs Skyrim.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'Missives.esp - USSEP Patch.esp'
+    after:
+      - 'Missives.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'SoulCairnMap - No Travel Markers.esp'
+    after:
+      - 'DynDOLOD.esp'
+      - 'Occlusion.esp'
+
+  - name: 'BlackreachMap - No Travel Marker.esp'
+    after:
+      - 'DynDOLOD.esp'
+      - 'Occlusion.esp'
+
+  - name: 'BlackreachMap.esp'
+    after:
+      - 'DynDOLOD.esp'
+      - 'Occlusion.esp'
+
+  - name: 'ForgottenValeMapMarkerAddon.esp'
+    after: [ 'Modern Brawl Bug Fix.esp' ]
+
+  - name: 'SkyrimMapTweaks.esp'
+    after: [ 'Modern Brawl Bug Fix.esp' ]
+
+  - name: 'SolstheimMapTweaks.esp'
+    after: [ 'Modern Brawl Bug Fix.esp' ]
+
+  - name: 'SovngardeMap.esp'
+    after: [ 'Modern Brawl Bug Fix.esp' ]
+
+  - name: 'Bruma Map Adjustment.esp'
+    after: [ 'Modern Brawl Bug Fix.esp' ]
+
+  - name: 'SoulCairnMap.esp'
+    after: [ 'Modern Brawl Bug Fix.esp' ]
+
+  - name: 'ForgottenValeMap.esp'
+    after: [ 'Modern Brawl Bug Fix.esp' ]

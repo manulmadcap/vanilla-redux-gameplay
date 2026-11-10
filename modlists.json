@@ -1,0 +1,39 @@
+[
+    {
+        "$type": "ModListMetadata, Wabbajack.Lib",
+        "title": "Vanilla Redux - Gameplay",
+        "description": "A nearly vanilla Skyrim Anniversary Edition (GOG 1.6.1179) modlist includes a variety of mods that improve upon the vanilla Skyrim gameplay while staying true to its roots and vision.",
+        "author": "manulmadcap",
+        "maintainers": [
+            "github/manulmadcap"
+        ],
+        "game": "skyrimspecialedition",
+        "tags": [
+            "GOG",
+            "SFW",
+            "Vanilla+"
+        ],
+        "nsfw": false,
+        "utility_list": false,
+        "image_contains_title": true,
+        "force_down": false,
+        "links": {
+            "$type": "Links, Wabbajack.Lib",
+            "image": "https://raw.githubusercontent.com/manulmadcap/vanilla-redux-gameplay/refs/heads/main/docs/images/vanilla-redux-gameplay-thumbnail.jpg",
+            "readme": "https://github.com/manulmadcap/vanilla-redux-gameplay/blob/main/README.md",
+            "download": "https://build.wabbajack.org/authored_files/download/Vanilla%20Redux%20-%20Gameplay.wabbajack_a7b85af5-c6c0-4994-b6d8-2bb80a9fdcdcREPLACE",
+            "machineURL": "VanillaReduxGameplay",
+            "discordURL": "https://discord.gg/D9EbH5rnY"
+        },
+        "download_metadata": {
+            "Hash": "UPDATE",
+            "Size": UPDATE,
+            "NumberOfArchives": UPDATE,
+            "SizeOfArchives": UPDATE,
+            "NumberOfInstalledFiles": UPDATE,
+            "SizeOfInstalledFiles": UPDATE,
+            "TotalSize": UPDATE
+        },
+        "version": "1.0.0"
+    }
+]
