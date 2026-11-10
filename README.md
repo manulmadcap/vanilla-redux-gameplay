@@ -31,7 +31,7 @@ Wabbajack modlist installer by *ManulMadcap*
   - [Pre-Installation](#pre-installation)
   - [Wabbajack Installation](#wabbajack-installation)
     - [Installing Wabbajack](#installing-wabbajack)
-    - [Downloading and Installing Vanilla Redux Base](#downloading-and-installing-vanilla-redux-gameplay)
+    - [Downloading and Installing Vanilla Redux Gameplay](#downloading-and-installing-vanilla-redux-gameplay)
       - [Problems with installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
     - [BethINI Pie](#bethini-pie)
@@ -47,7 +47,7 @@ Wabbajack modlist installer by *ManulMadcap*
 
 ## Preamble
 
-The **Gameplay** version of the **Vanilla Redux** includes a variety of mods that improve upon the vanilla Skyrim gameplay while staying true to its roots and vision. This modlist contains all of the fixes from [Vanilla Redux - Base](https://github.com/manulmadcap/vanilla-redux-gameplay) modlist and contains a minimal amount of visual enhancement mods.
+The **Gameplay** version of the **Vanilla Redux** includes a variety of mods that improve upon the vanilla Skyrim gameplay while staying true to its roots and vision. This modlist contains all of the fixes from [Vanilla Redux - Gameplay](https://github.com/manulmadcap/vanilla-redux-gameplay) modlist and contains a minimal amount of visual enhancement mods.
 
 A full list of mods included in the modlist can be found [here](https://loadorderlibrary.com/lists/vanilla-redux-gameplay).
 
@@ -76,7 +76,7 @@ A full list of mods included in the modlist can be found [here](https://loadorde
 
 > [!CAUTION]
 > The following must be downloaded and installed before Wabbajack installation:
-> * [Microsoft Visual C++ Redistributable 2022 x64](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist)
+> * [Microsoft Visual C++ Redistributable 2017-2026 x64](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist)
 > * [Microsoft .NET Desktop Runtime 4.8 x64](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
 > * [Microsoft .NET Desktop Runtime 10 x64](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
 > * [7-Zip](https://www.7-zip.org/)
