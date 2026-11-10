@@ -314,7 +314,7 @@ modlist_metadata:
   name: "vanilla-redux-gameplay"
   pretty_name: "Vanilla Redux - Gameplay"
   author: "ManulMadcap"
-  mo2_profile: "default"
+  mo2_profile: "vanilla-redux"
   readme: "https://github.com/manulmadcap/vanilla-redux-gameplay/blob/main/README.md"
   website: "https://github.com/manulmadcap/vanilla-redux-gameplay"
   discord: "https://discord.gg/D9EbH5rnY"

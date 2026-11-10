@@ -624,3 +624,11 @@ plugins:
 
   - name: 'ForgottenValeMap.esp'
     after: [ 'Modern Brawl Bug Fix.esp' ]
+
+  - name: 'BlackreachMap.esp - Master Patch.esp'
+    after: [ 'BlackreachMap.esp' ]
+
+  - name: 'Angi''s Unique Practice Arrows.esp - Immersive Weapons.esp Patch.esp'
+    after:
+      - 'Angi''s Unique Practice Arrows.esp'
+      - 'Immersive Weapons.esp'

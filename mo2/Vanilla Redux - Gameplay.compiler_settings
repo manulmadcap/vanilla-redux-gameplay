@@ -19,7 +19,7 @@
   "PublishUpdate": false,
   "MachineUrl": "VanillaRedux/VanillaReduxGameplay",
   "AutoGenerateReport": true,
-  "Profile": "default",
+  "Profile": "vanilla-redux",
   "AdditionalProfiles": [],
   "NoMatchInclude": [
     "mods\\[custom] - Auto Saver - Settings",

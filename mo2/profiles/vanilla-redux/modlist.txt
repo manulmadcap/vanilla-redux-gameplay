@@ -2,6 +2,7 @@
 -New_separator
 -Old and Outdated_separator
 +[custom] - Terrain LOD - Single Color Flat Noise
++[custom] - Enhanced Worldspace Maps - Blackreach Map Patch
 +Enhanced Worldspace Maps
 +Beyond Skyrim - Bruma - Best of Both Lod Patch
 +[custom] - DynDOLOD 3 - Modgroups
@@ -288,6 +289,7 @@
 +[skse] - Skyrim Configuration Menu
 +Alternate Start - Live Another Life - SSE
 -Gameplay - New Features_separator
++[custom] - Angi Uses Unique Practice Arrows - Immersive Weapons Patch
 +Angi Uses Unique Practice Arrows
 +Angi's Camp Archery Targets
 +mammoths have more than one tusk - Simple Hunting Overhaul Patch
