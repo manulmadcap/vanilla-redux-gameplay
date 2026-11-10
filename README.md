@@ -47,7 +47,7 @@ Wabbajack modlist installer by *ManulMadcap*
 
 ## Preamble
 
-The **Gameplay** version of the **Vanilla Redux** includes a variety of mods that improve upon the vanilla Skyrim gameplay while staying true to its roots and vision. This modlist contains all of the fixes from [Vanilla Redux - Gameplay](https://github.com/manulmadcap/vanilla-redux-gameplay) modlist and contains a minimal amount of visual enhancement mods.
+The **Gameplay** version of the **Vanilla Redux** includes a variety of mods that improve upon the vanilla Skyrim gameplay while staying true to its roots and vision. This modlist contains all of the fixes from [Vanilla Redux - Base](https://github.com/manulmadcap/vanilla-redux-base) modlist and contains a minimal amount of visual enhancement mods.
 
 A full list of mods included in the modlist can be found [here](https://loadorderlibrary.com/lists/vanilla-redux-gameplay).
 
