@@ -290,6 +290,7 @@
 *FaceSculptorExpanded.esp
 *Dynamic Things Alternative.esp
 *Immersive Death Cycle.esp
+*Wispmother And Albino Spider Respawn Fix SE.esp
 *HonedMetal.esp
 *SergiousTurrianus_HM.esp
 *SFQoLTweaks - TorchCrafting.esp
@@ -310,7 +311,6 @@
 *DynamicLoweredHoods.esp
 *Parry.esp
 *SkyrimConfigurationMenu.esp
-*Wispmother And Albino Spider Respawn Fix SE.esp
 *Parry.esp - Custom Settings Patch.esp
 *Parry.esp - Adamant.esp Patch.esp
 *NPCs Take Cover.esp
