@@ -376,7 +376,9 @@
     "mods\\[skse] - Core Impact Framework (CIF)\\Scripts\\CoreImpactFramework.pex",
     "mods\\[skse] - Dynamic Bloodpool Framework\\Scripts\\DynamicBloodpoolFramework.pex",
     "utilities\\dyndolod\\Edit Scripts\\DynDOLOD\\Presets\\vanilla-redux-high",
-    "utilities\\dyndolod\\Edit Scripts\\DynDOLOD\\Presets\\vanilla-redux-high.ini"
+    "utilities\\dyndolod\\Edit Scripts\\DynDOLOD\\Presets\\vanilla-redux-high.ini",
+    "mods\\[custom] - Crash Fix Compendium - Settings",
+    "mods\\[custom] - Wayfarer - Custom Settings Patch"
   ],
   "Include": [
     "mods\\[custom] - Terrain LOD - Single Color Flat Noise\\textures\\terrain\\noise.dds",

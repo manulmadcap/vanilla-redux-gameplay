@@ -79277,5 +79277,36 @@
         "step": "Plugin Selection"
       }
     ]
+  },
+  {
+    "displayName": "Beyond Skyrim - Assets",
+    "modId": 198585,
+    "options": [
+      {
+        "fileName": "BSAssets.esm",
+        "group": "Custom Map Markers?",
+        "masters": [],
+        "name": "Custom Map Markers",
+        "selectionState": "Selected",
+        "step": "Choose Option",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "BSAssets.esm",
+        "group": "Custom Map Markers?",
+        "masters": [],
+        "name": "No Custom Map Markers",
+        "selectionState": "Available",
+        "step": "Choose Option"
+      }
+    ]
   }
 ]

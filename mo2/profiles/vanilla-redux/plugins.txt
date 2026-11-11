@@ -8,7 +8,6 @@
 *JK's College of Winterhold.esp
 *JK's Blue Palace.esp
 *BSHeartland.esm
-*BS_DLC_patch.esp
 *OCF.esp
 *Embers XD.esm
 *StandingAmbusherFix.esl
@@ -16,6 +15,7 @@
 *JKs The Drunken Huntsman.esp
 *TrueHUD.esl
 *LexiconSKSE.esl
+*BS_DLC_patch.esp
 *DynDOLOD.esm
 *SkyUI_SE.esp
 *Hearthfires Houses Building Fix.esp
