@@ -1,0 +1,134 @@
+Skyrim - Misc.bsa
+Skyrim - Shaders.bsa
+Skyrim - Interface.bsa
+Skyrim - Animations.bsa
+Skyrim - Meshes0.bsa
+Skyrim - Meshes1.bsa
+Skyrim - Sounds.bsa
+Skyrim - Voices_en0.bsa
+Skyrim - Textures0.bsa
+Skyrim - Textures1.bsa
+Skyrim - Textures2.bsa
+Skyrim - Textures3.bsa
+Skyrim - Textures4.bsa
+Skyrim - Textures5.bsa
+Skyrim - Textures6.bsa
+Skyrim - Textures7.bsa
+Skyrim - Textures8.bsa
+Skyrim - Voices_it0.bsa
+Skyrim - Voices_es0.bsa
+Skyrim - Voices_de0.bsa
+Skyrim - Voices_pl0.bsa
+Skyrim - Voices_fr0.bsa
+skyrim - voices_ja0.bsa
+Skyrim - Voices_ru0.bsa
+ccQDRSSE001-SurvivalMode.bsa
+ccBGSSSE037-Curios.bsa
+ccBGSSSE025-AdvDSGS.bsa
+ccBGSSSE001-Fish.bsa
+_ResourcePack.bsa
+SkyUI_SE.bsa
+MCMHelper.bsa
+unofficial skyrim special edition patch.bsa
+unofficial skyrim special edition patch - textures.bsa
+Vanilla Scripts Enhanced.bsa
+Modern Brawl Bug Fix.bsa
+Improved Traps - Dangerous.bsa
+Ash Pile Expiration.bsa
+Stamina of Steeds.bsa
+NightingaleHallSceneFixes.bsa
+Guild Master's Armor First Person Texture Fix.bsa
+ResetRandomScenes.bsa
+Hearthfires Houses Building Fix.bsa
+Extended Guard Dialogue.bsa
+Guard Dialogue Overhaul.bsa
+Extended Bandit Dialogue.bsa
+gildergreen regrown.bsa
+aMidianBorn_Book of Silence.bsa
+imp_helm_legend.bsa
+JS Unique Utopia SE - Rings - Johnskyrim.bsa
+Sanguine Symphony.bsa
+Sanguine Symphony - Textures.bsa
+RaceMenu.bsa
+iHUD.bsa
+ars metallica.bsa
+HonedMetal.bsa
+Bounties Are Worthwhile.bsa
+run for your lives - textures.bsa
+run for your lives.bsa
+Better Stealth AI for Followers.bsa
+alternate start - live another life - textures.bsa
+alternate start - live another life.bsa
+Mundus.bsa
+Aetherius.bsa
+Apprentice.bsa
+Adamant.bsa
+HandtoHand.bsa
+H2HBooksandTrainers.bsa
+Stormcrown.bsa
+BladeAndBlunt.bsa
+Parry.bsa
+MysticismMagic.bsa
+LostGrimoire - Textures.bsa
+LostGrimoire.bsa
+Journeyman.bsa
+Starfrost.bsa
+AlchemyAdjustments.bsa
+Arachnomancy.bsa
+Summermyst - Enchantments of Skyrim.bsa
+Summermyst - Enchantments of Skyrim - Textures.bsa
+Hothtrooper44_ArmorCompilation.bsa
+Hothtrooper44_Armor_Ecksstra.bsa
+Lore Weapon Expansion.bsa
+PrvtI_HeavyArmory.bsa
+PrvtIRoyalArmory.bsa
+ZIA_Complete Pack.bsa
+ZIA_Complete Pack - Textures.bsa
+ArteFake.bsa
+Prvti_AshenArmory.bsa
+JKs Skyrim - Textures.bsa
+JKs Skyrim.bsa
+JK's Haelga's Bunkhouse.bsa
+JK's Understone Keep.bsa
+JK's The Winking Skeever.bsa
+JKs The Drunken Huntsman.bsa
+JK's Sleeping Giant Inn.bsa
+JK's Sinderion's Field Laboratory.bsa
+JK's Septimus Signus's Outpost.bsa
+JK's Radiant Raiment.bsa
+JK's Palace of the Kings.bsa
+JK's Nightgate Inn.bsa
+JK's New Gnisis Cornerclub - Textures.bsa
+JK's New Gnisis Cornerclub.bsa
+JK's Dragonsreach.bsa
+JK's Blue Palace.bsa
+JK's Tel Mithryn.bsa
+JK's Castle Dour.bsa
+JK's The Bards College - Textures.bsa
+JK's The Bards College.bsa
+JK's College of Winterhold - Textures.bsa
+JK's College of Winterhold.bsa
+JK's Sky Haven Temple.bsa
+JK's High Hrothgar.bsa
+JK's Castle Volkihar.bsa
+JK's Dark Brotherhood Sanctuary.bsa
+JK's Thieves Guild.bsa
+JK's Fort Dawnguard.bsa
+JK's Solitude Outskirts.bsa
+JK's Markarth Outskirts.bsa
+JK's Riften Outskirts.bsa
+JK's Windhelm's Outskirts.bsa
+JK's Whiterun's Outskirts.bsa
+Riften Docks Overhaul.bsa
+Riften Docks Overhaul - Textures.bsa
+Raven Rock.bsa
+SolstheimLighthouse.bsa
+HoldBorderBanners.bsa
+BSHeartland.bsa
+BSHeartland - Textures.bsa
+BSAssets - Textures.bsa
+BSAssets.bsa
+BS_DLC_patch.bsa
+Alternate Start - Bruma.bsa
+Missives - Boards Redone.bsa
+Missives - Boards Redo - Solstheim.bsa

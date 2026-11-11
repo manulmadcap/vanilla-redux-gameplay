@@ -1,0 +1,48 @@
+{
+    "messages": [
+        {
+            "text": "[Latest LOOT thread](https://loot.github.io/latest-thread/)."
+        },
+        {
+            "text": "Your **Skyrim SE GOG** is up-to-date."
+        },
+        {
+            "text": "It is recommended that you check the following compatibility patch compilation for JK's Interiors: [JK's Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/35910/)"
+        },
+        {
+            "text": "It is recommended that you check the following compatibility patch compilation for JK's Guild HQ Interiors: [JK's Guild HQ Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/61416/)"
+        },
+        {
+            "pluginName": "SurvivalModeImproved.esp",
+            "text": "Requires: New save game, don't use with an existing save."
+        },
+        {
+            "pluginName": "Summermyst - Enchantments of Skyrim.esp",
+            "text": "It is recommended that you read this mod's [Compatibility Notes](https://www.nexusmods.com/skyrimspecialedition/articles/116/)."
+        },
+        {
+            "pluginName": "Summermyst - Enchantments of Skyrim.esp",
+            "text": "Modern Brawl Bug Fix is included with this mod."
+        },
+        {
+            "pluginName": "JKs Skyrim.esp",
+            "text": "It is recommended that you read this mod's [Compatibility Notes](https://www.nexusmods.com/skyrimspecialedition/mods/6289?tab=description)."
+        },
+        {
+            "pluginName": "dD - Realistic Ragdoll Force - Realistic.esp",
+            "text": "It's recommended that other mods be allowed to overwrite this mod's resources (e.g. meshes, textures)."
+        },
+        {
+            "pluginName": "imp_helm_legend.esp",
+            "text": "You seem to be using **Immersive Armors**, but you have not enabled a compatibility patch for this mod. A third party patch is available here: [Improved Closedfaced Helmets Patches](https://www.nexusmods.com/skyrimspecialedition/mods/12405/)"
+        },
+        {
+            "pluginName": "RaceMenuPlugin.esp",
+            "text": "This plugin is optional."
+        },
+        {
+            "pluginName": "Occlusion.esp",
+            "text": "If you add, remove, or update plugins that alter WRLD/CELL records, remember to update this module with **xLODGen**."
+        }
+    ]
+}
