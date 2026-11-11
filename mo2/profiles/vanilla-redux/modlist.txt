@@ -206,6 +206,7 @@
 +[skse] - Sweeping Organizes Stuff - Use Broom to Clean Mess
 +[skse] - Take a Nap - Sleep on Chairs
 +[skse] - Grab And Throw
++[custom] - Wayfarer - Custom Settings Patch
 +[skse] - Wayfarer - A Convenient Camping Framework
 +[skse] - Usable Campfires - Diverse Campfires Patch
 +[skse] - Usable Campfires
@@ -695,6 +696,8 @@
 +Assorted mesh fixes
 +Bowlegged jump animation fix
 -Fixes - Meshes_separator
++[custom] - Crash Fix Compendium - Settings
++[skse] - Crash Fix Compendium
 +[skse] - Region Weather - Engine Fix
 +[skse] - Block Condition Freeze CTD Fix
 +[skse] - Shadow Fixes - SKSE

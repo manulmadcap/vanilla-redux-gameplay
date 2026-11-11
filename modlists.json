@@ -21,18 +21,18 @@
             "$type": "Links, Wabbajack.Lib",
             "image": "https://raw.githubusercontent.com/manulmadcap/vanilla-redux-gameplay/refs/heads/main/docs/images/vanilla-redux-gameplay-thumbnail.jpg",
             "readme": "https://github.com/manulmadcap/vanilla-redux-gameplay/blob/main/README.md",
-            "download": "https://build.wabbajack.org/authored_files/download/Vanilla%20Redux%20-%20Gameplay.wabbajack_a7b85af5-c6c0-4994-b6d8-2bb80a9fdcdcREPLACE",
+            "download": "https://authored-files.wabbajack.org/Vanilla%20Redux%20-%20Gameplay.wabbajack_3040c6ab-601f-4243-a331-15f1e6cf3512",
             "machineURL": "VanillaReduxGameplay",
             "discordURL": "https://discord.gg/D9EbH5rnY"
         },
         "download_metadata": {
-            "Hash": "UPDATE",
-            "Size": UPDATE,
-            "NumberOfArchives": UPDATE,
-            "SizeOfArchives": UPDATE,
-            "NumberOfInstalledFiles": UPDATE,
-            "SizeOfInstalledFiles": UPDATE,
-            "TotalSize": UPDATE
+            "Hash": "DGd5cSau7Yw=",
+            "Size": 160786299,
+            "NumberOfArchives": 831,
+            "SizeOfArchives": 58050880832,
+            "NumberOfInstalledFiles": 85724,
+            "SizeOfInstalledFiles": 77628082811,
+            "TotalSize": 135678963643
         },
         "version": "1.0.0"
     }

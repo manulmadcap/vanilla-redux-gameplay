@@ -632,3 +632,6 @@ plugins:
     after:
       - 'Angi''s Unique Practice Arrows.esp'
       - 'Immersive Weapons.esp'
+
+  - name: 'Wayfarer - Custom Settings Patch.esp'
+    after: [ 'Wayfarer - A Convenient Camping Framework.esp' ]
