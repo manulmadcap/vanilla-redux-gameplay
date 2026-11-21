@@ -419,7 +419,8 @@
     "profiles\\vanilla-redux\\loot\\settings.toml",
     "fomod.db",
     "fomod-plus-settings.ini",
-    "mods\\[custom] - Pandora Behavior Engine Plus - Output"
+    "mods\\[custom] - Pandora Behavior Engine Plus - Output",
+    "mods\\[root] - Controls"
   ],
   "Ignore": [
     "mods\\[custom] - Breath Meter - Settings\\SKSE\\Plugins\\BreathMeter.log",

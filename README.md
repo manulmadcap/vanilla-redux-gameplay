@@ -8,7 +8,7 @@ Wabbajack modlist installer by *ManulMadcap*
 <table stlyle="border: none;">
 <tr>
 <td><img src="https://github.com/manulmadcap/vanilla-redux-gameplay/blob/main/docs/images/icon-wabbajack.png" width="64px" /></td>
-<td><a href="https://build.wabbajack.org/authored_files/download/Vanilla%20Redux%20-%20Gameplay.wabbajack_36141e5d-0db7-4e31-8ea4-5b1aecaf8c12">Download on Wabbajack</a></td>
+<td><a href="https://build.wabbajack.org/authored_files/download/Vanilla%20Redux%20-%20Gameplay.wabbajack_a3f7d26b-c720-4c01-a6d4-c88e64c4c1c3">Download on Wabbajack</a></td>
 <td><img src="https://github.com/manulmadcap/vanilla-redux-gameplay/blob/main/docs/images/icon-discord.png" width="72px" /></td>
 <td><a href="https://discord.gg/D9EbH5rnY">Join us on Discord</a></td>
 </tr>
@@ -77,7 +77,7 @@ A full list of mods included in the modlist can be found [here](https://loadorde
 
 ***
 
-Prior to installing the **Vanilla Redux**, please complete the following steps.
+Prior to installing the **Vanilla Redux** modlist, please complete the following steps.
 
 1. Download and install the **GOG 1.6.1179 version** of Skyrim Special Edition to a solid-state drive.
 1. If necessary, change the language of the game to English. Other languages are not supported.
@@ -106,7 +106,7 @@ Prior to installing the **Vanilla Redux**, please complete the following steps.
 Downloading and installing the **Vanilla Redux** can take a while depending on your internet connection and depending on whether you have [Nexus Mods Premium](https://www.nexusmods.com/premium). To install the **Vanilla Redux**, complete the following steps:
 
 1. Close Wabbajack if it's open.
-1. Download the **Vanilla Redux** `.wabbajack` file from the [Wabbajack CDN](https://build.wabbajack.org/authored_files/download/Vanilla%20Redux%20-%20Gameplay.wabbajack_36141e5d-0db7-4e31-8ea4-5b1aecaf8c12).
+1. Download the **Vanilla Redux** `.wabbajack` file from the [Wabbajack CDN](https://build.wabbajack.org/authored_files/download/Vanilla%20Redux%20-%20Gameplay.wabbajack_a3f7d26b-c720-4c01-a6d4-c88e64c4c1c3).
 1. Open the `Vanilla Redux - Gameplay.wabbajack` file with Wabbajack.
 1. For `Installation Location`, choose a location close to the root of the drive, not in a protected folder/location, and on the same solid-state drive as the install of the GOG version of Skyrim (For example, `C:\wabbajack\vanilla-redux-gameplay`).
 1. For `Downloads Location`, it's generally recommended to let Wabbajack automatically set this (Wabbajack sets it to same path as `Installation Location` except with `\downloads` added to it). However, this can be set to any other location or drive in order to save solid-state drive space.
@@ -320,7 +320,7 @@ No support is provided for users who added, modified, or removed mods. Support i
 
 <!--
 modlist_metadata:
-  version: "1.0.1"
+  version: "1.0.2"
   name: "vanilla-redux-gameplay"
   pretty_name: "Vanilla Redux - Gameplay"
   author: "ManulMadcap"
@@ -331,5 +331,5 @@ modlist_metadata:
   machine_url: "VanillaRedux/VanillaReduxGameplay"
   image: "https://raw.githubusercontent.com/manulmadcap/vanilla-redux-gameplay/refs/heads/main/docs/images/vanilla-redux-gameplay-thumbnail.jpg"
   load_order_library: "https://loadorderlibrary.com/lists/vanilla-redux-gameplay"
-  wabbajack_cdn: "https://build.wabbajack.org/authored_files/download/Vanilla%20Redux%20-%20Gameplay.wabbajack_36141e5d-0db7-4e31-8ea4-5b1aecaf8c12"
+  wabbajack_cdn: "https://build.wabbajack.org/authored_files/download/Vanilla%20Redux%20-%20Gameplay.wabbajack_a3f7d26b-c720-4c01-a6d4-c88e64c4c1c3"
 -->
