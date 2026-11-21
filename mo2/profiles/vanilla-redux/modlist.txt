@@ -4,7 +4,6 @@
 +[custom] - Terrain LOD - Single Color Flat Noise
 +[custom] - Enhanced Worldspace Maps - Blackreach Map Patch
 +Enhanced Worldspace Maps
-+Beyond Skyrim - Bruma - Best of Both Lod Patch
 +[custom] - DynDOLOD 3 - Modgroups
 +[custom] - DynDOLOD 3 - Generated Object LOD
 +[custom] - TexGen - Generated LOD Textures
@@ -23,8 +22,9 @@
 +[skse] - DynDOLOD DLL NG
 +DynDOLOD Resources SE 3
 -Billboards and Maps_separator
++[custom] - Pandora Behavior Engine Plus - Output
 +[NoDelete] - Overwrite Backup
--Bashed Patch, SkyPatcher, Overwrite Backup_separator
+-Bashed Patch, SkyPatcher, Overwrites_separator
 +Radiant Quest Point System - Missives Worldspace Additions Beyond Skyrim Bruma Patch
 +Radiant Quest Point System - Missives Worldspace Additions Solstheim Patch
 +Radiant Quest Point System - Missives Patch
@@ -36,7 +36,7 @@
 +Missives - Notes Retexture - Beyond Skyrim Bruma
 +Missives - Notes Retexture - Solstheim
 +Missives - Notes Retexture
-+Missives - Quest Edits for Unique Missive Board Mods - Beyond Skyrim Bruma Patch
++Missives - Quest Edits for Unique Missive Board Mods - Deliveries in Skyrim
 +Missives - Quest Edits for Unique Missive Board Mods
 +Missives are in Skyrim
 +Missives - Worldspace Additions
@@ -45,12 +45,33 @@
 +[custom] - Missives - USSEP Patch
 +Missives
 +Paarthurnax - Quest Expansion
-+Assorted Bruma Mesh Fixes
 +Alternate Start Options for Beyond Skyrim - Bruma SE
 +Bruma Signs SMIM patch - SE
-+Beyond Skyrim - Bruma SE - DLC Integration Patch
-+Beyond Skyrim - Bruma SE - Assets
-+Beyond Skyrim - Bruma SE
++[custom] - Radiant Quest Point System - Missives - Bruma Fixes Patch
++[custom] - Simplicity of Snow - Bruma Patch
++[custom] - Embers XD - Bruma Patch
++[custom] - Cloaks of Skyrim - Bruma Patch
++[custom] - Alternate Start - Bruma Patch
++[custom] - Use Those Horses - Bruma Patch
++[custom] - Unaggressive Dragon Priests Fix - Bruma Patch
++[custom] - True Hunter - Bruma Patch
++[custom] - Missives - Worldspace Additions - Bruma Patch
++[custom] - Simple Hunting Overhaul - Beyond Skyrim Bruma Patch
++[custom] - Survival Mode Improved - Bruma Patch
++[custom] - Alchemy Potions and Food Adjustments - Bruma Patch
++[custom] - Blade and Blunt - Bruma - Killmove Fixes Patch
++[custom] - Immersive Interactions - Bruma Patch
++[custom] - Inventory Interface Information Injector - I4 - Bruma Patch
++[custom] - Additional Music Project - Beyond Skyrim Bruma Patch
++[custom] - SkyPatcher - NARC Remade - Bruma Patch
++[custom] - Green Thumb Fix - Bruma Patch
++[custom] - Object Categorization Framework - Bruma Patch
++[custom] - Beyond Skyrim - Bruma - Jumping Attack Patch
++[custom] - Beyond Skyrim - Assets SE - Crafting Labels Patch
++[custom] - Beyond Skyrim - Bruma SE - MO2 Font Check Fix
++Beyond Skyrim - Bruma SE - 2.0.1
++BSAssets SE - Pandora Patch - 2026.11.11
++Beyond Skyrim - Assets SE - 2.0.1
 +[skse] - Dino's Easy Quest Fix
 -Quests and New Lands_separator
 +Reinforced Civil War Camps - Patch Collection - USSEP Patch
@@ -199,14 +220,18 @@
 +Summermyst - Enchantments of Skyrim
 +Wrye Bash Tags for some mods
 -Items, Weapons, Armor_separator
-+[skse] - Atronach Friendly Fire
++[custom] - Stamina Regeneration 50 Percent Increase
++[skse] - Hide in Bushes
++[skse] - Object Impact Framework (OIF) - Unofficial Update
++[skse] - Object Impact Framework (OIF)
 +[skse] - Wildfire
 +[skse] - Ice is Slick
 +[skse] - No Lockpick Activate (SKSE) - Updated
 +[skse] - Sweeping Organizes Stuff - Use Broom to Clean Mess
 +[skse] - Take a Nap - Sleep on Chairs
 +[skse] - Grab And Throw
-+[custom] - Wayfarer - Custom Settings Patch
++[custom] - Wayfarer - Settings
++[skse] - Wayfarer -Embers XD Patch
 +[skse] - Wayfarer - A Convenient Camping Framework
 +[skse] - Usable Campfires - Diverse Campfires Patch
 +[skse] - Usable Campfires
@@ -223,7 +248,7 @@
 +[skse] - Carry Your Carcasses - Elk On Horse Mesh Replacer
 +[skse] - Carry Your Carcasses - Simple Hunting Overhaul Hotfix
 +[skse] - Carry Your Carcasses
-+[skse] - Simple Hunting Overhaul - Beyond Skyrim Bruma Patch
+-[skse] - Simple Hunting Overhaul - Beyond Skyrim Bruma Patch
 +[skse] - Simple Hunting Overhaul
 +[custom] - Arachnomancy - A Spider Scrolls Overhaul - Respawn Fix Patch
 +[custom] - Arachnomancy - A Spider Scrolls Overhaul - USSEP Patch
@@ -234,7 +259,6 @@
 +[custom] - Alchemy Potions and Food Adjustments - Rare Curios Patch - USSEP Patch
 +[custom] - Alchemy Potions and Food Adjustments - USSEP Patch
 +[custom] - Alchemy Potions and Food Adjustments - Balmora Blue Patch
-+[skse] - Alchemy Potions and Food Adjustments - Beyond Skyrim Bruma Patch
 +[skse] - Alchemy Potions and Food Adjustments - Rare Curios Patch
 +[skse] - Alchemy Potions and Food Adjustments
 +[skse] - Starfrost - A Survival Overhaul
@@ -254,7 +278,7 @@
 +[custom] - Parry - Simple Weapon Parrying - Adamant Patch
 +[custom] - Parry - Simple Weapon Parrying - Custom Settings Patch
 +[skse] - Parry - Simple Weapon Parrying
-+[custom] - Blade and Blunt - A Combat Overhaul - USSEP Patch
++[custom] - Blade and Blunt - USSEP Patch
 +[skse] - Blade and Blunt - A Combat Overhaul
 +[skse] - Comprehensive Attack Rate Patch - SKSE
 +[skse] - Vampire Feeding Tweaks
@@ -263,7 +287,6 @@
 +[skse] - Manbeast - A Werewolf Overhaul
 +[custom] - Stormcrown - A Shout Overhaul - Whirlwind Sprint Delayed Voice Fix Patch
 +[skse] - Stormcrown - A Shout Overhaul
-+[custom] - Beyond Skyrim Bruma - Adamant Patch
 +[custom] - Disintegration Perk Fix - Adamant Patch
 +[custom] - Killmove Fixes - USSEP Patch - Adamant Patch
 +[skse] - Simonrim SKSE Addons - Power Attack Speed Perks
@@ -290,6 +313,7 @@
 +[skse] - Skyrim Configuration Menu
 +Alternate Start - Live Another Life - SSE
 -Gameplay - New Features_separator
++[skse] - Use Telekinesis on Traps
 +[custom] - Angi Uses Unique Practice Arrows - Immersive Weapons Patch
 +Angi Uses Unique Practice Arrows
 +Angi's Camp Archery Targets
@@ -301,7 +325,7 @@
 -[skse] - Use Those Blankets - Own Textures Patch
 +[skse] - Use Those Blankets
 +[skse] - Show Follower Carry Weight
-+[skse] - True Hunter - fewer animals per square meter - Beyond Skyrim Bruma Patch
+-[skse] - True Hunter - fewer animals per square meter - Beyond Skyrim Bruma Patch
 +[skse] - True Hunter - fewer animals per square meter
 +[skse] - Standing Stealth
 +[skse] - Stealth Fixes - SKSE
@@ -340,6 +364,16 @@
 +[skse] - Rumble - Subtle Configuration for Xbox Elite Series 2 Controller
 +[skse] - Rumble
 -Gameplay - Improved Features_separator
++[skse] - IFrame Generator RE AE Support
++[custom] - TK Dodge NG - Settings
++[skse] - TK Dodge NG
++[pandora] - TK Dodge Animation Pandora Patch
++[skse] - TK Dodge RE - Weapon Sheathed First Person Animation
++[skse] - TK Dodge RE - 8 Way Dodge
++[skse] - TK Dodge RE - Script Free
++TK Dodge SE - Meshes Only
++[skse] - Conditional Camera Noise
++[skse] - Camera Noise
 +[skse] - Dynamic NPC Thinking Animations
 +[skse] - Unique Jarl Throne Sitting Animation (OAR) - Thrones of Skyrim Patch
 +[custom] - Unique Jarl Throne Sitting Animation (OAR) - Settings
@@ -354,12 +388,15 @@
 +[skse] - Immersive Interactions - Animated Actions - Legacy Settings Loader
 +[skse] - Immersive Interactions - Animated Actions
 +[skse] - Draugr Spear Animation
++[custom] - Jumping Attack - Jumping While Swinging Patch
 +[skse] - First Person Jumping Attack Fix
++[custom] - Jumping Attack - First Person Drawn Bow Patch
 +[custom] - Jumping Attack - Blade and Blunt Patch
 +[pandora] - Jumping Attack Ice Skating Fix
 +[pandora] - Jumping Attack
 +[skse] - Exit Sneak On Sprint
 +[skse] - Better Jumping SE
++[skse] - Classic Sprinting Redone
 +[skse] - Immersive Carcass Carrying
 +[custom] - Immersive Hunting Animations - Settings
 +[skse] - Immersive Hunting Animations
@@ -387,8 +424,8 @@
 +[pandora] - Grain Mill Animation Fix
 +[pandora] - USSEP Nemesis or Pandora Patch
 +[pandora] - First Person Animation Teleport Bug Fix
-+[custom] - Pandora Behavior Engine Plus - Output
-+[pandora] - Pandora Behaviour Engine Plus
++[custom] - Pandora Behavior Engine Plus - Settings
++[pandora] - Pandora Behaviour Engine Plus - Preview Version
 +[skse] - Dyn FNIS AA functions
 +No More Sliding Paws - Creature Idle Animation Fixes
 +No Spinning Death Animation LITE
@@ -396,6 +433,7 @@
 +The Pigeon's Nest - Assortment of small mods and fixes
 +Pristine Vanilla Movement
 -Animations and Camera Changes_separator
++[custom] - Revert Skyrim AE Main Menu Logo Color
 +[skse] - Hotkey Atlas (Keyboard Mouse Gamepad)
 +[custom] - Breath Meter - Settings
 +[skse] - Breath Meter
@@ -414,7 +452,7 @@
 +[skse] - Quest Item Icon
 +[skse] - Dynamic Inventory Icon Injector
 +[skse] - Skeuomorphism of Skyrim - Immersive Plaque Reading Interface
-+[custom] - QuickLoot IE - Disable Color Icons Patch
+-[custom] - QuickLoot IE - Disable Color Icons Patch
 +[custom] - QuickLoot IE - Settings
 +[skse] - QuickLoot IE - A QuickLoot EE Fork
 +[custom] - TrueHUD - Settings
@@ -511,7 +549,6 @@
 +[skse] - No Grass In Objects
 +[custom] - No grass in caves - USSEP Patch
 +No grass in caves
--Complex Grass - The official Patch Compendium - Verdant
 +[custom] - Verdant - Missing Grass Texture Patch
 +Verdant - A Skyrim Grass Plugin
 +Gildergreen Regrown
@@ -522,7 +559,6 @@
 +[custom] - Happy Little Trees - Verdant Patch
 +[skse] - Happy Little Tweaks
 +Happy Little Trees - Aspen Addendum
-+Happy Little Trees - Beyond Skyrim Bruma LOD Replacer
 +Happy Little Trees
 +[skse] - Real Water for Volcanic Mineral Pools - Base Object Swapper
 +[custom] - Depths of Skyrim - Skyrim Project Optimization Patch
@@ -580,8 +616,9 @@
 +Blended Roads
 -Textures and Meshes - Landscape, Environment_separator
 -Lighting and Weather_separator
++[custom] - Dynamic Follower Banter - Custom Settings Patch
++[skse] - Dynamic Follower Banter
 +[custom] - Additional Music Project - The Nordic Score - Dungeons
-+[custom] - Additional Music Project - Beyond Skyrim Bruma Patch
 +[custom] - Additional Music Project - Dawnguard
 +Additional Music Project
 +The Nordic Score - Dungeons
@@ -696,6 +733,7 @@
 +Assorted mesh fixes
 +Bowlegged jump animation fix
 -Fixes - Meshes_separator
++[skse] - Chicken Soup - Crash Fixes
 +[custom] - Crash Fix Compendium - Settings
 +[skse] - Crash Fix Compendium
 +[skse] - Region Weather - Engine Fix
@@ -846,7 +884,7 @@
 +Static Mesh improvement Mod - SMIM - Quality Addon
 +Static Mesh Improvement Mod - SMIM
 -Textures and Meshes - Packs_separator
--[skse] - Load Time Profiler
++[skse] - Load Time Profiler
 +[skse] - AI Pathing Freeze Fix
 +[skse] - Path Idle Crash Fix
 +[skse] - Occlusion Limit Fix

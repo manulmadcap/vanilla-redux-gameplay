@@ -2664,7 +2664,7 @@
         "group": "Blackreach Addons",
         "masters": [],
         "name": "More Worldspace Travel Markers",
-        "selectionState": "Deselected",
+        "selectionState": "Available",
         "step": "Blackreach Optional Addons",
         "typePatterns": [
           {
@@ -2686,7 +2686,7 @@
         "group": "Blackreach Addons",
         "masters": [],
         "name": "No Worldspace Travel Markers",
-        "selectionState": "Deselected",
+        "selectionState": "Available",
         "step": "Blackreach Optional Addons",
         "typePatterns": [
           {
@@ -2752,7 +2752,7 @@
         "group": "Soul Cairn Addons",
         "masters": [],
         "name": "No Worldspace Travel Markers",
-        "selectionState": "Deselected",
+        "selectionState": "Available",
         "step": "Soul Cairn Optional Addons",
         "typePatterns": [
           {
@@ -7518,12 +7518,12 @@
     "options": [
       {
         "fileName": "BSHeartland.esm",
-        "group": "Custom Map Markers?",
+        "group": "Custom Interface?",
         "masters": [
           "BSAssets.esm"
         ],
-        "name": "Custom Map Markers",
-        "selectionState": "Selected",
+        "name": "Custom Interface",
+        "selectionState": "Available",
         "step": "Choose Option",
         "typePatterns": [
           {
@@ -7536,14 +7536,14 @@
         ]
       },
       {
-        "fileName": "Optional/BSHeartland - No Custom Map Markers.esp",
-        "group": "Custom Map Markers?",
+        "fileName": "Optional/BSHeartland - No Custom Interface.esp",
+        "group": "Custom Interface?",
         "masters": [
           "BSAssets.esm",
           "BSHeartland.esm"
         ],
-        "name": "No Custom Map Markers",
-        "selectionState": "Available",
+        "name": "No Custom Interface",
+        "selectionState": "Selected",
         "step": "Choose Option"
       }
     ]
@@ -16684,7 +16684,7 @@
           "BSHeartland.esm"
         ],
         "name": "Beyond Skyrim: Bruma Patch",
-        "selectionState": "Selected",
+        "selectionState": "Deselected",
         "step": "Options",
         "typePatterns": [
           {
@@ -79284,10 +79284,10 @@
     "options": [
       {
         "fileName": "BSAssets.esm",
-        "group": "Custom Map Markers?",
+        "group": "Custom Interface?",
         "masters": [],
-        "name": "Custom Map Markers",
-        "selectionState": "Selected",
+        "name": "Custom Interface",
+        "selectionState": "Available",
         "step": "Choose Option",
         "typePatterns": [
           {
@@ -79301,11 +79301,261 @@
       },
       {
         "fileName": "BSAssets.esm",
-        "group": "Custom Map Markers?",
+        "group": "Custom Interface?",
         "masters": [],
-        "name": "No Custom Map Markers",
-        "selectionState": "Available",
+        "name": "No Custom Interface",
+        "selectionState": "Selected",
         "step": "Choose Option"
+      }
+    ]
+  },
+  {
+    "displayName": "Coin Purses Explode - OIF",
+    "modId": 155906,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Please read",
+        "masters": [],
+        "name": "I  HAVE READ AND UNDERSTOOD",
+        "selectionState": "Selected",
+        "step": "Installation instructions"
+      },
+      {
+        "fileName": "CoinPursesExplode.esp",
+        "group": "Do you wish to have coin purses explode?",
+        "masters": [],
+        "name": "Yes, progressively ⭐",
+        "selectionState": "Available",
+        "step": "Main mod options"
+      },
+      {
+        "fileName": "CoinPursesExplode.esp",
+        "group": "Do you wish to have coin purses explode?",
+        "masters": [],
+        "name": "Yes, explode everytime!",
+        "selectionState": "Selected",
+        "step": "Main mod options"
+      },
+      {
+        "fileName": "",
+        "group": "Do you wish to have coin purses explode?",
+        "masters": [],
+        "name": "No thanks!",
+        "selectionState": "Available",
+        "step": "Main mod options"
+      },
+      {
+        "fileName": "CoinPursesExplode.esp",
+        "group": "Do you want the Piles of Gold to explode?",
+        "masters": [],
+        "name": "⚠ Yes, the full amount",
+        "selectionState": "Available",
+        "step": "Main mod options"
+      },
+      {
+        "fileName": "CoinPursesExplode.esp",
+        "group": "Do you want the Piles of Gold to explode?",
+        "masters": [],
+        "name": "Yes, progressively",
+        "selectionState": "Available",
+        "step": "Main mod options"
+      },
+      {
+        "fileName": "",
+        "group": "Do you want the Piles of Gold to explode?",
+        "masters": [],
+        "name": "No thanks!",
+        "selectionState": "Selected",
+        "step": "Main mod options"
+      }
+    ]
+  },
+  {
+    "displayName": "TK Dodge RE",
+    "modId": 56956,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Install Main files",
+        "masters": [],
+        "name": "Main files",
+        "selectionState": "Selected",
+        "step": "Main"
+      },
+      {
+        "fileName": "",
+        "group": "Option Patch",
+        "masters": [],
+        "name": "Enable Sheathed Dodge",
+        "selectionState": "Deselected",
+        "step": "Option"
+      },
+      {
+        "fileName": "",
+        "group": "Option Patch",
+        "masters": [],
+        "name": "Cancel concentration spell when dodging",
+        "selectionState": "Deselected",
+        "step": "Option"
+      },
+      {
+        "fileName": "",
+        "group": "Option Patch",
+        "masters": [],
+        "name": "Remove Blocking Cancel Attack",
+        "selectionState": "Deselected",
+        "step": "Option"
+      },
+      {
+        "fileName": "",
+        "group": "Option Patch",
+        "masters": [],
+        "name": "Old version dll plugin",
+        "selectionState": "Available",
+        "step": "Option"
+      },
+      {
+        "fileName": "",
+        "group": "Option Patch",
+        "masters": [],
+        "name": "Forward dodge scurry fix",
+        "selectionState": "Available",
+        "step": "Option"
+      },
+      {
+        "fileName": "",
+        "group": "Option Patch",
+        "masters": [],
+        "name": "Allow dodging when stagger (DM)",
+        "selectionState": "Available",
+        "step": "Option"
+      },
+      {
+        "fileName": "",
+        "group": "Option Patch",
+        "masters": [],
+        "name": "Allow dodging when stagger",
+        "selectionState": "Available",
+        "step": "Option"
+      },
+      {
+        "fileName": "",
+        "group": "Behavior edits for dodge only ",
+        "masters": [],
+        "name": "TK dodge standalone",
+        "selectionState": "Selected",
+        "step": "Option"
+      },
+      {
+        "fileName": "",
+        "group": "Behavior edits for dodge only ",
+        "masters": [],
+        "name": "TK dodge standalone - Enable Sheathed Dodge",
+        "selectionState": "Selected",
+        "step": "Option"
+      },
+      {
+        "fileName": "",
+        "group": "Behavior edits for dodge only ",
+        "masters": [],
+        "name": "TK dodge standalone - Cancel concentration spell when dodging",
+        "selectionState": "Selected",
+        "step": "Option"
+      },
+      {
+        "fileName": "",
+        "group": "Behavior edits for dodge only ",
+        "masters": [],
+        "name": "TK dodge standalone - Forward dodge scurry fix",
+        "selectionState": "Available",
+        "step": "Option"
+      },
+      {
+        "fileName": "",
+        "group": "Behavior edits for dodge only ",
+        "masters": [],
+        "name": "TK dodge standalone - Allow dodging when stagger (DM)",
+        "selectionState": "Available",
+        "step": "Option"
+      },
+      {
+        "fileName": "",
+        "group": "Behavior edits for dodge only ",
+        "masters": [],
+        "name": "TK dodge standalone - Allow dodging when stagger",
+        "selectionState": "Available",
+        "step": "Option"
+      },
+      {
+        "fileName": "",
+        "group": "TKUC",
+        "masters": [],
+        "name": "Sheathed forward dodge scurry fix",
+        "selectionState": "Selected",
+        "step": "Not an option"
+      },
+      {
+        "fileName": "",
+        "group": "TKDS",
+        "masters": [],
+        "name": "TK dodge standalone - Sheathed forward dodge scurry fix",
+        "selectionState": "Selected",
+        "step": "Not an option2"
+      },
+      {
+        "fileName": "",
+        "group": "End",
+        "masters": [],
+        "name": "Install Finished",
+        "selectionState": "Selected",
+        "step": "Install Finished"
+      }
+    ]
+  },
+  {
+    "displayName": "TK Dodge Animation Pandora Fix Patch",
+    "modId": 111788,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Requirements",
+        "masters": [],
+        "name": "Need it!!",
+        "selectionState": "Selected",
+        "step": "Necessary"
+      },
+      {
+        "fileName": "",
+        "group": "Requirements",
+        "masters": [],
+        "name": "Pandora",
+        "selectionState": "Selected",
+        "step": "Necessary"
+      },
+      {
+        "fileName": "",
+        "group": "Requirements",
+        "masters": [],
+        "name": "Animation Motion Revolution",
+        "selectionState": "Selected",
+        "step": "Necessary"
+      },
+      {
+        "fileName": "",
+        "group": "How To",
+        "masters": [],
+        "name": "Install After Tk Dodge",
+        "selectionState": "Selected",
+        "step": "Install"
+      },
+      {
+        "fileName": "",
+        "group": "Have Fun!!",
+        "masters": [],
+        "name": "Have FUN!",
+        "selectionState": "Selected",
+        "step": "Have Fun!!"
       }
     ]
   }

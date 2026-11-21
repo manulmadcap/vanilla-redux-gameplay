@@ -7,19 +7,18 @@
 *BSAssets.esm
 *JK's College of Winterhold.esp
 *JK's Blue Palace.esp
-*BSHeartland.esm
 *OCF.esp
+*BSHeartland.esm
 *Embers XD.esm
 *StandingAmbusherFix.esl
 *SolstheimLighthouse.esl
 *JKs The Drunken Huntsman.esp
 *TrueHUD.esl
 *LexiconSKSE.esl
-*BS_DLC_patch.esp
 *DynDOLOD.esm
-*SkyUI_SE.esp
 *Hearthfires Houses Building Fix.esp
 *Circlets and Masks with all Robes and Hoods.esp
+*SkyUI_SE.esp
 *I4IconAddon.esp
 *SMIM-SE-Merged-All.esp
 *SurvivalModeImproved.esp
@@ -134,13 +133,14 @@
 *JKs Solitude Outskirts - Verdant patch.esp
 *PaarthurnaxQuestExpansion.esp
 *Orc Strongholds - AIO - Cultured Orc Furniture Patch.esp
+*BSHeartland - No Custom Interface.esp
 *JKs Castle Volkihar - HLT patch.esp
 *buy and sell torches.esp
 *JKs Candlehearth Hall - JKs Skyrim patch.esp
 *Embers XD - Patch - JKs Skyrim.esp
 *H2HBooksandTrainers.esp
-*JKs Whiterun Outskirts - USSEP Patch.esp
 *Robber's Gorge Fixes.esp
+*JKs Whiterun Outskirts - USSEP Patch.esp
 *Orc Strongholds - AIO - Landscape Fixes For Grass Mods Patch.esp
 *JKs Castle Volkihar - CC Fishing patch.esp
 *aMidianborn_Skyforge_Weapons.esp
@@ -194,6 +194,7 @@
 *SFQoLTweaks - StayAsLongAsYouLike.esp
 *shalidor's maze fixes.esp
 *Shadows Of Sunlight - In Small Exterior World Spaces.esp
+*Dynamic Follower Banter.esp
 *JKs Solitude Outskirts - USSEP patch.esp
 *JKs Markarth Outskirts - CC Fishing patch.esp
 *JKs Windhelm Outskirts - USSEP patch.esp
@@ -352,11 +353,7 @@
 *Arachnomancy.esp - Wispmother And Albino Spider Respawn Fix Patch.esp
 *True Hunter.esp
 *Realistic AI Detection 3 - Lite.esp
-*True Hunter - Bruma Patch.esp
-*AlchemyAdjustmentsNoFood - BS Bruma Patch.esp
 *Simple Hunting Overhaul.esp
-*Adamant BSHeartland Patch.esp
-*SHO - Bruma Patch.esp
 *Take a Nap.esp
 *UsableCampfires.esp
 *Press E To Heal Followers.esp
@@ -414,7 +411,6 @@
 *BlendedRoads.esp
 *Softly Obscuring Snowfall - No Dirty Ruins Snow.esp
 *Simplicity of Snow.esp
-*Simplicity of Snow - BSBruma Patch.esp
 *Simplicity of Snow - Blended Roads Patch.esp
 *Simplicity of Snow - Blended Roads Patch - Custom Patch.esp
 *Simplicity of Settlements - Dragon Bridge.esp
@@ -603,9 +599,7 @@
 *Skyrim Revoiced - Quest Fixes Patch.esp
 *Skyrim Revoiced - Hunters Not Bandits Supplemental Patch.esp
 *Skyrim Revoiced - USSEP Supplemental Patch.esp
-*AtronachFriendlyFire.esp
 *Skyrim Revoiced - Here We Go Again Patch.esp
-*AtronachFriendlyFireSPIDInstalled.esp
 *Extended Guard Dialogue.esp
 *Extended Bandit Dialogue.esp
 *Falmer Servant Lines Expansion.esp
@@ -632,16 +626,31 @@
 *JKs New Gnisis Cornerclub - USSEP Supplemental Patch.esp
 *JKs Skyrim.esp - USSEP Supplemental Patch.esp
 *CreepClusterCollisionFixes_HFPlanting.esp
-*Wayfarer - A Convenient Camping Framework.esp
 *Angi's Camp Archery Targets.esp
 *Angi's Unique Practice Arrows.esp
 *Windhelm Snow Pile Fix.esp
 *Angi's Unique Practice Arrows.esp - Immersive Weapons.esp Patch.esp
-*Wayfarer - Custom Settings Patch.esp
 *ZIA_Complete Pack.esp - Survival Mode Improved Patch.esp
+*Blade and Blunt - Bruma - Killmove Fixes Patch.esp
+*Missives - Heartland - Bruma 2.0 Patch.esp
+*RQPS - Missives Bruma - Reward Fixes.esp
+*SHO - Bruma 2.0 Patch.esp
+*SMI - Bruma 2.0 Patch.esp
+*AlchemyAdjustmentsNoFood - BS Bruma Patch.esp
+*True Hunter - Bruma 2.0 Patch.esp
+*Cloaks of Skyrim - Bruma 2.0 Patch.esp
+*Embers XD - Bruma 2.0 Patch.esp
+*Simplicity of Snow - Bruma 2.0 Patch.esp
+*Dynamic Follower Banter - Custom Settings Patch.esp
+*Jumping Attack - First Person Drawn Bow Patch.esp
+*Wayfarer - A Convenient Camping Framework.esp
+*Jumping Attack - Jumping While Swinging Patch.esp
+*HideInBushesOIF.esp
+*Use Telekinesis on Traps.esp
 *Aetherius.esp
 *AetheriusNPCSpellAbsorb.esp
 *ApprenticeAetherius.esp
+*Stamina Regeneration 50 Percent.esp
 *Mundus.esp
 *alternate start - live another life.esp
 *JKs Winking Skeever - Alternate Start Mods Patch.esp
@@ -659,6 +668,7 @@
 *JKs Bannered Mare - Alternate Start Patch.esp
 *JKs Candlehearth Hall - Alternate Start Patch.esp
 *JKs Sleeping Giant Inn - Alternate Start Patch.esp
+*Alternate Start - Bruma 2.0 Patch.esp
 *NoGrassINCaves.esp
 *NoGrassINCaves.esp - USSEP Patch.esp
 *Modern Brawl Bug Fix.esp

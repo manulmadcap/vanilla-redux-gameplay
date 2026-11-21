@@ -43,7 +43,7 @@ Wabbajack modlist installer by *ManulMadcap*
 - [Updating the modlist](#updating-the-modlist)
 - [Uninstalling the Modlist](#uninstalling-the-modlist)
 - [Support](#support)
-- [Author Information and Credits](#author-information-and-credits)
+- [Author Information and Credits](#author-information-credits-and-licensing)
 
 ## Preamble
 
@@ -51,13 +51,7 @@ The **Gameplay** version of the **Vanilla Redux** includes a variety of mods tha
 
 A full list of mods included in the modlist can be found [here](https://loadorderlibrary.com/lists/vanilla-redux-gameplay).
 
-> [!NOTE]
-> This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
 ## System Requirements
-
-> [!WARNING]
-> Only Windows 10 and 11 are fully supported with Wabbajack (WJ). No other operating systems are officially supported.
 
 ***
 
@@ -85,7 +79,7 @@ A full list of mods included in the modlist can be found [here](https://loadorde
 
 Prior to installing the **Vanilla Redux**, please complete the following steps.
 
-1. Download and install the **GOG version** of Skyrim Special Edition to a solid-state drive.
+1. Download and install the **GOG 1.6.1179 version** of Skyrim Special Edition to a solid-state drive.
 1. If necessary, change the language of the game to English. Other languages are not supported.
 1. Launch the game and reach the main menu. Allow it to download any addon files if needed.
 1. Close the game.
@@ -115,7 +109,7 @@ Downloading and installing the **Vanilla Redux** can take a while depending on y
 1. Download the **Vanilla Redux** `.wabbajack` file from the [Wabbajack CDN](https://build.wabbajack.org/authored_files/download/Vanilla%20Redux%20-%20Gameplay.wabbajack_addff02c-a3d4-40fe-8636-dfe963020ca1).
 1. Open the `Vanilla Redux - Gameplay.wabbajack` file with Wabbajack.
 1. For `Installation Location`, choose a location close to the root of the drive, not in a protected folder/location, and on the same solid-state drive as the install of the GOG version of Skyrim (For example, `C:\wabbajack\vanilla-redux-gameplay`).
-1. For `Downloads Location`, it's generally recommended to let Wabbajack automatically set this (Wabbajack sets it to same path as `Installation Location` except with `\downloads` added to it). However, this can be set to any other location or drive to save solid-state drive space.
+1. For `Downloads Location`, it's generally recommended to let Wabbajack automatically set this (Wabbajack sets it to same path as `Installation Location` except with `\downloads` added to it). However, this can be set to any other location or drive in order to save solid-state drive space.
 1. Click `Install`.
 1. Once the install completes, click on `Create Desktop Shortcut` and then close Wabbajack.
 1. Double click the desktop shortcut that was created to open Mod Organizer 2, which is used to run the game.
@@ -202,7 +196,14 @@ The Wabbajack log files can be found in the version folder that gets automatical
   * Unarmed combat is expanded.
     * Directional unarmed power attacks, sneak unarmed power attacks, and sprinting unarmed power attacks have been added.
     * A new skill tree for unarmed combat has been added, allowing you to build a viable character around it.
+* Movement is improved and less restrictive.
+  * Dodge using the sprint key/button.
+  * Freely attack while jumping and vice versa.
+  * Third person directional movement.
+  * Optional camera lock onto targets.
+* Sneaking is more accurate and realistic.
 * An additional follower can be recruited to your party for every 30 speech levels that are gained.
+* Camping system added and hunting gameplay overhauled.
 * Lockpicking and pickpocketing have had their skill tree combines into one.
 * Many perks have been slightly modified.
 * There are dozens of new weapons, armor, and spells to acquire.
@@ -241,43 +242,51 @@ The Wabbajack log files can be found in the version folder that gets automatical
 **Gameplay Modlist Features:**
 
 * A full list of mods included in the modlist can be found [here](https://loadorderlibrary.com/lists/vanilla-redux-gameplay).
-* Beyond Skyrim - Bruma: https://www.nexusmods.com/skyrimspecialedition/mods/10917
-* Missives: https://www.nexusmods.com/skyrimspecialedition/mods/17576
-* Radiant Quest Point System: https://www.nexusmods.com/skyrimspecialedition/mods/67956
 * Overhauls to the following gameplay aspects:
   * Shouts:
-    * Stormcrown: https://www.nexusmods.com/skyrimspecialedition/mods/90659
+    * [Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659)
   * Combat:
-    * Blade and Blunt: https://www.nexusmods.com/skyrimspecialedition/mods/34549
-    * Parry: https://www.nexusmods.com/skyrimspecialedition/mods/133437
-    * Unarmed combat: https://www.nexusmods.com/skyrimspecialedition/mods/131607
+    * [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549)
+    * [Parry](https://www.nexusmods.com/skyrimspecialedition/mods/133437)
+    * [Unarmed combat](https://www.nexusmods.com/skyrimspecialedition/mods/131607)
     * New weapons and armor.
     * New enchantments:
-      * Summermyst: https://www.nexusmods.com/skyrimspecialedition/mods/6285
+      * [Summermyst](https://www.nexusmods.com/skyrimspecialedition/mods/6285)
     * New spells.
-      * Mysticism: https://www.nexusmods.com/skyrimspecialedition/mods/27839
-      * Lost Grimoire: https://www.nexusmods.com/skyrimspecialedition/mods/4455
-    * Arachnomancy: https://www.nexusmods.com/skyrimspecialedition/mods/67272
+      * [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839)
+      * [Lost Grimoire](https://www.nexusmods.com/skyrimspecialedition/mods/4455)
+    * [Arachnomancy](https://www.nexusmods.com/skyrimspecialedition/mods/67272)
+  * Sneak:
+    * [Stealth Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/195418)
+    * [Standing Stealth](https://www.nexusmods.com/skyrimspecialedition/mods/193088)
+    * [Better Stealth AI for Followers](https://www.nexusmods.com/skyrimspecialedition/mods/17600)
   * Races:
-    * Aetherius: https://www.nexusmods.com/skyrimspecialedition/mods/26686
+    * [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686)
   * Classes:
-    * Apprentice: https://www.nexusmods.com/skyrimspecialedition/mods/169288
+    * [Apprentice](https://www.nexusmods.com/skyrimspecialedition/mods/169288)
   * Perks:
-    * Adamant: https://www.nexusmods.com/skyrimspecialedition/mods/30191
-    * Unarmed perk tree: https://www.nexusmods.com/skyrimspecialedition/mods/59790
+    * [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191)
+    * [Unarmed perk tree](https://www.nexusmods.com/skyrimspecialedition/mods/59790)
   * Followers:
-    * Simple Follower Framework: https://www.nexusmods.com/skyrimspecialedition/mods/174017
+    * [Simple Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/174017)
     * Additional follower available every 30 Speech levels.
   * Hunting:
-    * Simple Hunting Overhaul: https://www.nexusmods.com/skyrimspecialedition/mods/95943
-* Improved movement:
-  * True Directional Movement: https://www.nexusmods.com/skyrimspecialedition/mods/51614
-  * Jumping Attack: https://www.nexusmods.com/skyrimspecialedition/mods/68043
-  * Better Jumping SE: https://www.nexusmods.com/skyrimspecialedition/mods/18967
+    * [Simple Hunting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/95943)
+    * [Carry Your Carcasses](https://www.nexusmods.com/skyrimspecialedition/mods/62628)
+  * Camping:
+    * [Wayfarer](https://www.nexusmods.com/skyrimspecialedition/mods/197492)
+  * Movement:
+    * [TK Dodge NG](https://www.nexusmods.com/skyrimspecialedition/mods/115408)
+    * [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
+    * [Better Jumping SE](https://www.nexusmods.com/skyrimspecialedition/mods/18967)
+    * [Jumping Attack](https://www.nexusmods.com/skyrimspecialedition/mods/68043)
 * Dynamic Activation Key:
-  * https://www.nexusmods.com/skyrimspecialedition/mods/96273
-  * https://www.nexusmods.com/skyrimspecialedition/mods/96430
-* Even Better Quest Objectives: https://www.nexusmods.com/skyrimspecialedition/mods/159
+  * [Dynamic Activation Key](https://www.nexusmods.com/skyrimspecialedition/mods/96273)
+  * [Dynamic Activation Key - Addons Collection](https://www.nexusmods.com/skyrimspecialedition/mods/96430)
+* [Beyond Skyrim - Bruma (2.0 update)](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
+* [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576)
+* [Radiant Quest Point System](https://www.nexusmods.com/skyrimspecialedition/mods/67956)
+* [Even Better Quest Objectives](https://www.nexusmods.com/skyrimspecialedition/mods/159)
 
 ## Updating the Modlist
 
@@ -303,8 +312,9 @@ If you encounter bugs with the modlist, open a new issue [here](https://github.c
 
 No support is provided for users who added, modified, or removed mods. Support is only provided for the latest version of the modlist without any modifications made to it.
 
-## Author Information and Credits
+## Author Information, Credits, and Licensing
 
+* This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 * ManulMadcap - Author/main developer of the **Vanilla Redux**.
 * Al/Styyx Setup of Skyrim ASSOS - Thanks for their `README.md` template.
 

@@ -635,3 +635,100 @@ plugins:
 
   - name: 'Wayfarer - Custom Settings Patch.esp'
     after: [ 'Wayfarer - A Convenient Camping Framework.esp' ]
+
+  - name: 'AlchemyAdjustmentsNoFood - BS Bruma Patch.esp.esp'
+    after: [ 'AlchemyAdjustments.esp' ]
+
+  - name: 'Blade and Blunt - Bruma - Killmove Fixes Patch.esp'
+    after:
+      - 'BladeAndBlunt.esp'
+      - 'BSHeartland.esm'
+      - 'BSAssets.esm'
+      - 'EVE - KillMove Fixes.esp'
+
+  - name: 'Missives - Heartland - Bruma 2.0 Patch.esp'
+    after:
+      - 'Missives.esp'
+      - 'Missives - Heartland.esp'
+      - 'BSHeartland.esm'
+      - 'BSAssets.esm'
+
+  - name: 'RQPS - Missives Bruma - Reward Fixes.esp'
+    after:
+      - 'RQPS - Missives Patch.esp'
+      - 'RQPS - Missives Bruma Patch.esp'
+
+  - name: 'SHO - Bruma 2.0 Patch.esp'
+    after:
+      - 'Simple Hunting Overhaul.esp'
+      - 'BSHeartland.esm'
+      - 'BSAssets.esm'
+
+  - name: 'SMI - Bruma 2.0 Patch.esp'
+    after:
+      - 'BSHeartland.esm'
+      - 'BSAssets.esm'
+      - 'SurvivalModeImproved.esp'
+
+  - name: 'SHO - Bruma Patch.esp'
+    after:
+      - 'Simple Hunting Overhaul.esp'
+      - 'BSAssets.esm'
+      - 'BSHeartland.esm'
+
+  - name: 'True Hunter - Bruma 2.0 Patch.esp'
+    after:
+      - 'True Hunter.esp'
+      - 'BSAssets.esm'
+      - 'BSHeartland.esm'
+
+  - name: 'Alternate Start - Bruma 2.0 Patch.esp'
+    after:
+      - 'alternate start - live another life.esp'
+      - 'BSHeartland.esm'
+      - 'Alternate Start - Bruma.esp'
+
+  - name: 'Cloaks of Skyrim - Bruma 2.0 Patch.esp'
+    after:
+      - 'Cloaks.esp'
+      - 'BSAssets.esm'
+      - 'BSHeartland.esm'
+      - 'Cloaks - Bruma Patch.esp'
+
+  - name: 'Embers XD - Bruma 2.0 Patch.esp'
+    after:
+      - 'Embers XD.esm'
+      - 'Embers XD.esp'
+      - 'Embers XD - Patch - Beyond Skyrim - Bruma.esp'
+
+  - name: 'Simplicity of Snow - Bruma 2.0 Patch.esp'
+    after:
+      - 'Simplicity of Snow.esp'
+      - 'Simplicity of Snow - BSBruma Patch.esp'
+      - 'BSAssets.esm'
+      - 'BSHeartland.esm'
+
+  - name: 'Dynamic Follower Banter - Custom Settings Patch.esp'
+    after: [ 'Dynamic Follower Banter.esp' ]
+
+  - name: 'Jumping Attack - First Person Drawn Bow Fix.esp'
+    after: [ 'Blade and Blunt - Jumping Attack Patch.esp' ]
+
+  - name: 'Jumping Attack - First Person Drawn Bow Patch.esp'
+    after:
+      - 'JumpAttack.esp'
+      - 'Blade and Blunt - Jumping Attack Patch.esp'
+
+  - name: 'Jumping Attack - Swing Jump Patch.esp'
+    after: [ 'Jumping Attack - First Person Drawn Bow Patch.esp' ]
+
+  - name: 'Jumping Attack - Jumping While Swinging Patch.esp'
+    after:
+      - 'Jumping Attack - First Person Drawn Bow Patch.esp'
+      - 'JumpAttack.esp'
+
+  - name: 'Stamina Regeneration 50 Percent.esp'
+    after:
+      - 'BladeAndBlunt.esp'
+      - 'Adamant.esp'
+      - 'Aetherius.esp'

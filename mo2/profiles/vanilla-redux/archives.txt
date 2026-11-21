@@ -15,13 +15,13 @@ Skyrim - Textures5.bsa
 Skyrim - Textures6.bsa
 Skyrim - Textures7.bsa
 Skyrim - Textures8.bsa
-Skyrim - Voices_it0.bsa
-Skyrim - Voices_es0.bsa
-Skyrim - Voices_de0.bsa
+Skyrim - Voices_ru0.bsa
 Skyrim - Voices_pl0.bsa
 Skyrim - Voices_fr0.bsa
 skyrim - voices_ja0.bsa
-Skyrim - Voices_ru0.bsa
+Skyrim - Voices_it0.bsa
+Skyrim - Voices_es0.bsa
+Skyrim - Voices_de0.bsa
 ccQDRSSE001-SurvivalMode.bsa
 ccBGSSSE037-Curios.bsa
 ccBGSSSE025-AdvDSGS.bsa
@@ -54,8 +54,8 @@ iHUD.bsa
 ars metallica.bsa
 HonedMetal.bsa
 Bounties Are Worthwhile.bsa
-run for your lives - textures.bsa
 run for your lives.bsa
+run for your lives - textures.bsa
 Better Stealth AI for Followers.bsa
 alternate start - live another life - textures.bsa
 alternate start - live another life.bsa
@@ -75,19 +75,19 @@ Journeyman.bsa
 Starfrost.bsa
 AlchemyAdjustments.bsa
 Arachnomancy.bsa
-Summermyst - Enchantments of Skyrim.bsa
 Summermyst - Enchantments of Skyrim - Textures.bsa
-Hothtrooper44_ArmorCompilation.bsa
+Summermyst - Enchantments of Skyrim.bsa
 Hothtrooper44_Armor_Ecksstra.bsa
+Hothtrooper44_ArmorCompilation.bsa
 Lore Weapon Expansion.bsa
 PrvtI_HeavyArmory.bsa
 PrvtIRoyalArmory.bsa
-ZIA_Complete Pack.bsa
 ZIA_Complete Pack - Textures.bsa
+ZIA_Complete Pack.bsa
 ArteFake.bsa
 Prvti_AshenArmory.bsa
-JKs Skyrim - Textures.bsa
 JKs Skyrim.bsa
+JKs Skyrim - Textures.bsa
 JK's Haelga's Bunkhouse.bsa
 JK's Understone Keep.bsa
 JK's The Winking Skeever.bsa
@@ -98,16 +98,16 @@ JK's Septimus Signus's Outpost.bsa
 JK's Radiant Raiment.bsa
 JK's Palace of the Kings.bsa
 JK's Nightgate Inn.bsa
-JK's New Gnisis Cornerclub - Textures.bsa
 JK's New Gnisis Cornerclub.bsa
+JK's New Gnisis Cornerclub - Textures.bsa
 JK's Dragonsreach.bsa
 JK's Blue Palace.bsa
 JK's Tel Mithryn.bsa
 JK's Castle Dour.bsa
-JK's The Bards College - Textures.bsa
 JK's The Bards College.bsa
-JK's College of Winterhold - Textures.bsa
+JK's The Bards College - Textures.bsa
 JK's College of Winterhold.bsa
+JK's College of Winterhold - Textures.bsa
 JK's Sky Haven Temple.bsa
 JK's High Hrothgar.bsa
 JK's Castle Volkihar.bsa
@@ -119,16 +119,15 @@ JK's Markarth Outskirts.bsa
 JK's Riften Outskirts.bsa
 JK's Windhelm's Outskirts.bsa
 JK's Whiterun's Outskirts.bsa
-Riften Docks Overhaul.bsa
 Riften Docks Overhaul - Textures.bsa
+Riften Docks Overhaul.bsa
 Raven Rock.bsa
 SolstheimLighthouse.bsa
 HoldBorderBanners.bsa
-BSHeartland.bsa
-BSHeartland - Textures.bsa
 BSAssets - Textures.bsa
 BSAssets.bsa
-BS_DLC_patch.bsa
+BSHeartland.bsa
+BSHeartland - Textures.bsa
 Alternate Start - Bruma.bsa
 Missives - Boards Redone.bsa
 Missives - Boards Redo - Solstheim.bsa
