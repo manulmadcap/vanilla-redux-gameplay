@@ -70,9 +70,9 @@ A full list of mods included in the modlist can be found [here](https://loadorde
 
 > [!CAUTION]
 > The following must be downloaded and installed before Wabbajack installation:
-> * [Microsoft Visual C++ Redistributable 2017-2026 x64](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist)
-> * [Microsoft .NET Desktop Runtime 4.8 x64](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
-> * [Microsoft .NET Desktop Runtime 10 x64](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
+> * [Microsoft Visual C++ Redistributable 2017-2026 x64](https://aka.ms/vc14/vc_redist.x64.exe)
+> * [Microsoft .NET Desktop Runtime 4.8 x64](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer)
+> * [Microsoft .NET Desktop Runtime 10 x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-10.0.15-windows-x64-installer)
 > * [7-Zip](https://www.7-zip.org/)
 
 ***

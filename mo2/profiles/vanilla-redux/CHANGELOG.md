@@ -1,5 +1,27 @@
 # Modlist Changelog
 
+## Version 1.0.2
+
+### Summary
+
+- **Added:** 0 mods
+- **Removed:** 0 mods
+- **Updated:** 1 mods
+
+### Added Mods
+
+No mods added.
+
+### Removed Mods
+
+No mods removed.
+
+### Updated Mods
+
+- .1130 _ResourcePack fixes: 1.11 → 8/10/2026
+
+---
+
 ## Version 1.0.1
 
 ### Summary
