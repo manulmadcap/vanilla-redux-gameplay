@@ -653,7 +653,7 @@
 +Improved Eye - Glowing Vampire Eye
 +Improved Eye
 +Scattered Embers Mesh and Position Fix
-+.1130 _ResourcePack fixes
++1130 _ResourcePack fixes
 +Drift Material Fixes
 +[skse] - Fully Harvest Hanging Carcasses and Coin Purses
 +Whiterun Fence Base Seam Fix

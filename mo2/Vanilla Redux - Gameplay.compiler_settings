@@ -3,7 +3,7 @@
   "Source": "G:\\skyrim-anniversary-edition\\wabbajack-uncompiled\\vanilla-redux-gameplay",
   "Downloads": "G:\\skyrim-anniversary-edition\\wabbajack-uncompiled\\vanilla-redux-gameplay\\downloads",
   "Game": "SkyrimSpecialEdition",
-  "OutputFile": "G:\\skyrim-anniversary-edition\\wabbajack-compiled\\vanilla-redux-gameplay\\1.0.1\\Vanilla Redux - Gameplay.wabbajack",
+  "OutputFile": "G:\\skyrim-anniversary-edition\\wabbajack-compiled\\vanilla-redux-gameplay\\1.0.2\\Vanilla Redux - Gameplay.wabbajack",
   "ModListImage": "G:\\skyrim-anniversary-edition\\wabbajack-compiled\\vanilla-redux-gameplay\\git\\docs\\images\\vanilla-redux-gameplay-thumbnail.jpg",
   "UseGamePaths": false,
   "UseTextureRecompression": false,
@@ -15,7 +15,7 @@
   "ModListReadme": "https://github.com/manulmadcap/vanilla-redux-gameplay/blob/main/README.md",
   "ModListWebsite": "https://github.com/manulmadcap/vanilla-redux-gameplay",
   "ModListCommunity": "https://discord.gg/D9EbH5rnY",
-  "ModlistVersion": "1.0.1",
+  "ModlistVersion": "1.0.2",
   "PublishUpdate": false,
   "MachineUrl": "VanillaRedux/VanillaReduxGameplay",
   "AutoGenerateReport": true,
@@ -458,6 +458,6 @@
     "plugins\\changeloggen.py"
   ],
   "AlwaysEnabled": [],
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "Description": null
 }

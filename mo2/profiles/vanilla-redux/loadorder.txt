@@ -114,8 +114,6 @@ Raven Rock.esp
 Immersive Weapons.esp - USSEP Patch.esp
 Immersive Weapons.esp - Leveled List Adjustments Patch.esp
 Immersive Weapons.esp - Blade and Blunt Patch.esp
-iHUD.esp
-iHUD - Settings Loader.esp
 dD - Realistic Ragdoll Force - Realistic.esp
 aMidianBorn_Book of Silence.esp
 Immersive Weapons.esp - Mysticism Patch.esp
@@ -657,6 +655,8 @@ Wayfarer - A Convenient Camping Framework.esp
 Jumping Attack - Jumping While Swinging Patch.esp
 HideInBushesOIF.esp
 Use Telekinesis on Traps.esp
+iHUD.esp
+iHUD - Settings Loader.esp
 Aetherius.esp
 AetheriusNPCSpellAbsorb.esp
 ApprenticeAetherius.esp
