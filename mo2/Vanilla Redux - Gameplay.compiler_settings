@@ -420,7 +420,8 @@
     "fomod.db",
     "fomod-plus-settings.ini",
     "mods\\[custom] - Pandora Behavior Engine Plus - Output",
-    "mods\\[root] - Controls"
+    "mods\\[root] - Controls",
+    "BethINI.lnk"
   ],
   "Ignore": [
     "mods\\[custom] - Breath Meter - Settings\\SKSE\\Plugins\\BreathMeter.log",
